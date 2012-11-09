@@ -1,0 +1,9 @@
+#summary Index of Programs
+#labels Featured,Phase-Implementation
+
+= Notes =
+
+Programs are presented in the order in which they appear in the book. Please use
+the Quora forum linked on the elementsofprogramminginterviews.com page to discuss problems. You can
+also contact us directly, contact information is at the same page.
+
