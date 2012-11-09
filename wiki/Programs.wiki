@@ -7,7 +7,7 @@ Programs are presented in the order in which they appear in the book. Please use
 the Quora forum linked on the elementsofprogramminginterviews.com page to discuss problems. You can
 also contact us directly, contact information is at the same page.
 
-*Permute A's elements to get a new array B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
+*Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
 
