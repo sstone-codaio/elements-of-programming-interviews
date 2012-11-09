@@ -33,21 +33,21 @@ also contact us directly, contact information is at the same page.
 
 *Checking if rectangles intersect*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_rectangle.cpp Intersect_rectangle.cpp] 
 
-*Computing $x \times y$ without multiply or add*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/MultiplyShiftAdd.cpp MultiplyShiftAdd.cpp] 
+*Computing x `*` y without multiply or add*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/MultiplyShiftAdd.cpp MultiplyShiftAdd.cpp] 
 
-*Computing $x/y$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Division.cpp Division.cpp] 
+*Computing x/y*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Division.cpp Division.cpp] 
 
 *Dutch national flag*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Dutch_national_flag.cpp Dutch_national_flag.cpp] 
 
 *Max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp] 
 
-*Subset summing to $0 \bmod n$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-sum_subset.cpp 0-sum_subset.cpp] 
+*Subset summing to 0 mod n*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-sum_subset.cpp 0-sum_subset.cpp] 
 
 *Longest contiguous increasing subarray*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_increasing_subarray.cpp Longest_increasing_subarray.cpp] 
 
 *Computing equivalence classes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/EquivClasses.java EquivClasses.java] 
 
-*BigInteger multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
+*`BigInteger` multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
 
 *Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.cpp Permutation_array1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.cpp Permutation_array2.cpp] 
 
@@ -133,7 +133,7 @@ also contact us directly, contact information is at the same page.
 
 *Balanced binary trees*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Balanced_binary_tree_template.cpp Balanced_binary_tree_template.cpp] 
 
-*$k$-balanced nodes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree_template.cpp k-balanced_binary_tree_template.cpp] 
+*k-balanced nodes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree_template.cpp k-balanced_binary_tree_template.cpp] 
 
 *Symmetric binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Symmetric_binary_tree_template.cpp Symmetric_binary_tree_template.cpp] 
 
@@ -184,11 +184,11 @@ also contact us directly, contact information is at the same page.
 
 *Bentley's binary search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bentleybsearch.cpp Bentleybsearch.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
 
-*Search a sorted array for first occurrence of $k$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k_template.cpp Binary_search_first_k_template.cpp] 
+*Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k_template.cpp Binary_search_first_k_template.cpp] 
 
-*Search a sorted array for the first element larger than~$k$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k_template.cpp Binary_search_larger_k_template.cpp] 
+*Search a sorted array for the first element larger than k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k_template.cpp Binary_search_larger_k_template.cpp] 
 
-*Search a sorted array for $A[i]=i$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_Ai=i.cpp Binary_search_Ai=i.cpp] 
+*Search a sorted array for A`[`i`]`=i*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_Ai=i.cpp Binary_search_Ai=i.cpp] 
 
 *Search for a pair in an abs-sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_a_pair_sorted_array_template.cpp Search_a_pair_sorted_array_template.cpp] 
 
@@ -208,7 +208,7 @@ also contact us directly, contact information is at the same page.
 
 *The k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_template.cpp k-th_largest_element_template.cpp] 
 
-*The $k$-th largest element---large $n$ and small $k$*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
+*The k-th largest element---large n and small k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
 
 *Finding a missing element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Missing_element.cpp Missing_element.cpp] 
 
@@ -302,7 +302,7 @@ Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming
 
 *Maximum 2D subarray*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle.cpp Max_submatrix_rectangle.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_square.cpp Max_submatrix_square.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle_improved.cpp Max_submatrix_rectangle_improved.cpp] 
 
-*Searching for a sequence in a $2$D array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StringInMatrix.java StringInMatrix.java] 
+*Searching for a sequence in a 2D array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StringInMatrix.java StringInMatrix.java] 
 
 *Levenshtein distances*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Levenshtein_distance.cpp Levenshtein_distance.cpp] 
 
