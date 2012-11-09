@@ -81,9 +81,9 @@ also contact us directly, contact information is at the same page.
 
 *Median of a sorted circular linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list_template.cpp Median_sorted_circular_linked_list_template.cpp] 
 
-*Overlapping lists---1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.cpp Overlapping_lists_no_cycle.cpp] 
+*Overlapping lists - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.cpp Overlapping_lists_no_cycle.cpp] 
 
-*Overlapping lists---2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp] 
+*Overlapping lists - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp] 
 
 *Even-odd merge*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list_template.cpp Even_odd_merge_linked_list_template.cpp] 
 
@@ -139,7 +139,7 @@ also contact us directly, contact information is at the same page.
 
 *Locking in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_lock_template.cpp Binary_tree_lock_template.cpp] 
 
-*Inorder traversal with O(1) space}*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent_template.cpp Inorder_traversal_with_parent_template.cpp] 
+*Inorder traversal with O(1) space*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent_template.cpp Inorder_traversal_with_parent_template.cpp] 
 
 *Determining the k-th node in an inorder traversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_node_binary_tree_template.cpp k-th_node_binary_tree_template.cpp] 
 
@@ -170,7 +170,7 @@ also contact us directly, contact information is at the same page.
 
 *Closest stars*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_stars.cpp Closest_stars.cpp] 
 
-*The k-th largest element---streaming case*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_element_streaming.cpp k-th_element_streaming.cpp] 
+*The k-th largest element - streaming case*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_element_streaming.cpp k-th_element_streaming.cpp] 
 
 *Approximate sort*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Approximate_sort.cpp Approximate_sort.cpp] 
 
@@ -208,7 +208,7 @@ also contact us directly, contact information is at the same page.
 
 *The k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_template.cpp k-th_largest_element_template.cpp] 
 
-*The k-th largest element---large n and small k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
+*The k-th largest element - large n and small k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
 
 *Finding a missing element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Missing_element.cpp Missing_element.cpp] 
 
@@ -238,7 +238,7 @@ also contact us directly, contact information is at the same page.
 
 *Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp] 
 
-*Team photo day---1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp] 
+*Team photo day - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp] 
 
 *Count the occurrences of characters in a sentence*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_occurrences_in_sentence.cpp Count_occurrences_in_sentence.cpp] 
 
@@ -345,7 +345,7 @@ also contact us directly, contact information is at the same page.
 
 *Theory of equality*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Theory_of_equality.cpp Theory_of_equality.cpp] 
 
-*Team photo day---2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_2.cpp Team_photo_2.cpp] 
+*Team photo day - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_2.cpp Team_photo_2.cpp] 
 
 *Shortest path with fewest edges*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_path_fewest_edges.cpp Shortest_path_fewest_edges.cpp] 
 
