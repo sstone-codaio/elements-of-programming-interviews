@@ -8,203 +8,583 @@ the Quora forum linked on the elementsofprogramminginterviews.com page to discus
 also contact us directly, contact information is at the same page.
 
 
-
 *Permute A's elements to get a new array B such that B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp]
+
 *Computing parity* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp]
+
 *Swap bits* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.cpp swap_bits.cpp]
+
 *Bit reversal* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_bits.cpp Reverse_bits.cpp]
+
 *Closest integers with the same weight* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_int_same_bits.cpp Closest_int_same_bits.cpp]
+
 *The power set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Power_set.cpp Power_set.cpp]
+
 *String and integer conversions* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Interconverting_string_integer.cpp Interconverting_string_integer.cpp]
+
 *Base conversion* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Convert_base.cpp Convert_base.cpp]
+
 *Spreadsheet column encoding* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spreadsheet_encoding.cpp Spreadsheet_encoding.cpp]
+
 *Elias gamma coding* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Elias.java Elias.java]
+
 *Greatest common divisor* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GreatestCommonDivisor.java GreatestCommonDivisor.java]
+
 *Enumerating primes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Prime_sieve.cpp Prime_sieve.cpp]
+
 *Checking if rectangles intersect* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_rectangle.cpp Intersect_rectangle.cpp]
+
 *Computing $x \times y$ without multiply or add* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/MultiplyShiftAdd.cpp MultiplyShiftAdd.cpp]
+
 *Computing $x/y$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Division.cpp Division.cpp]
+
 *Dutch national flag* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Dutch_national_flag.cpp Dutch_national_flag.cpp]
+
 *Max difference* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp]
+
 *Subset summing to $0 \bmod n$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-sum_subset.cpp 0-sum_subset.cpp]
+
 *Longest contiguous increasing subarray* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_increasing_subarray.cpp Longest_increasing_subarray.cpp]
+
 *Computing equivalence classes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/EquivClasses.java EquivClasses.java]
+
 *BigInteger multiplication* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp]
+
 *Permuting the elements of an array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.cpp Permutation_array1.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.cpp Permutation_array2.cpp]
+
 *Next permutation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Next_permutation.cpp Next_permutation.cpp]
+
 *Rotate an array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array_permutation.cpp Rotate_array_permutation.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array.cpp Rotate_array.cpp]
+
 *Sudoku checker* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SudokuChecker.java SudokuChecker.java]
+
 *Print $2$D array in spiral order* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/PrintMatrixSpiral.java PrintMatrixSpiral.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix.cpp Spiral_matrix.cpp]
+
 *Painting* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_iterative.cpp Painting_iterative.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_recursive.cpp Painting_recursive.cpp]
+
 *$2$D array rotation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_rotation.cpp Matrix_rotation.cpp]
+
 *Run-length encoding* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Run_length_compression.cpp Run_length_compression.cpp]
+
 *Reverse all the words in a sentence* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_words.cpp Reverse_words.cpp]
+
 *Replace and remove* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Replace_and_remove.cpp Replace_and_remove.cpp]
+
 *Phone number mnemonic* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Phone_mnemonic.cpp Phone_mnemonic.cpp]
+
 *DNA matching with wildcard characters* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp]
+
 *Regular expression matching* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RegExp.java RegExp.java]
+
 *Linked list prototype* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h]
+
 *Checking for cyclicity* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_template.cpp Checking_cycle_template.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp]
+
 *Median of a sorted circular linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list_template.cpp Median_sorted_circular_linked_list_template.cpp]
+
 *Overlapping lists---1* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.cpp Overlapping_lists_no_cycle.cpp]
+
 *Overlapping lists---2* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp]
+
 *Even-odd merge* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list_template.cpp Even_odd_merge_linked_list_template.cpp]
+
 *Merge two sorted lists* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.cpp Merge_sorted_lists_template.cpp]
+
 *Deletion from a singly linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Deletion_list_template.cpp Deletion_list_template.cpp]
+
 *Remove the $k$-th last element from a list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Remove_kth_last_list_template.cpp Remove_kth_last_list_template.cpp]
+
 *Reversing a singly linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_recursive_template.cpp Reverse_linked_list_recursive_template.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_iterative_template.cpp Reverse_linked_list_iterative_template.cpp]
+
 *Palindromicity in linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Palindrome_linked_list_template.cpp Palindrome_linked_list_template.cpp]
+
 *Zipping a list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Zipping_list_template.cpp Zipping_list_template.cpp]
+
 *Copying a postings list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_skip_list_template.cpp Copying_skip_list_template.cpp]
+
 *Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.cpp Stack_with_max_template.cpp]
+
 *Expression evaluation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.java RPN.java]
+
 *Printing the keys in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order_template.cpp BST_sorted_order_template.cpp]
+
 *Searching a postings list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_recursive_template.cpp Search_skip_list_recursive_template.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_iterative_template.cpp Search_skip_list_iterative_template.cpp]
+
 *Towers of Hanoi* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hanoi.java Hanoi.java]
+
 *Views of the sunset* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_sunset.cpp View_sunset.cpp]
+
 *Stack sorting* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StackSort.java StackSort.java]
+
 *Printing a binary tree in level order* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order_template.cpp Binary_tree_level_order_template.cpp]
+
 *Implement a circular queue* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Circular_queue_template.cpp Circular_queue_template.cpp]
+
 *Implement a queue using two unsigned integers* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_using_two_integers.cpp Queue_using_two_integers.cpp]
+
 *Queue from two stacks* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_from_stacks_template.cpp Queue_from_stacks_template.cpp]
+
 *Queue with max* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max.cpp Queue_with_max.cpp]
+
 *Maximum of a sliding window* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_sliding_window_template.cpp Maximum_sliding_window_template.cpp]
+
 *Binary tree prototype* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h]
+
 *Inorder traversal of a binary tree, no stack* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_no_stack_template.cpp Inorder_traversal_no_stack_template.cpp]
+
 *Balanced binary trees* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Balanced_binary_tree_template.cpp Balanced_binary_tree_template.cpp]
+
 *$k$-balanced nodes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree_template.cpp k-balanced_binary_tree_template.cpp]
+
 *Symmetric binary tree* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Symmetric_binary_tree_template.cpp Symmetric_binary_tree_template.cpp]
+
 *Locking in a binary tree* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_lock_template.cpp Binary_tree_lock_template.cpp]
+
 *Inorder traversal with $\mathcal{O(1)$ space}* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent_template.cpp Inorder_traversal_with_parent_template.cpp]
+
 *Determining the $k$-th node in an inorder traversal* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_node_binary_tree_template.cpp k-th_node_binary_tree_template.cpp]
+
 *Reconstructing a binary tree from traversal data* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_pre_in_orders_template.cpp Reconstruct_binary_tree_pre_in_orders_template.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_post_in_orders_template.cpp Reconstruct_binary_tree_post_in_orders_template.cpp]
+
 *Reconstructing a binary tree from a preorder traversal with marker* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_preorder_with_null_template.cpp Reconstruct_preorder_with_null_template.cpp]
+
 *Convert a binary tree to a circular doubly linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_to_doubly_linked_list_template.cpp Binary_tree_to_doubly_linked_list_template.cpp]
+
 *Form a linked list from the leaves of a binary tree* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Connect_leaves_binary_tree_template.cpp Connect_leaves_binary_tree_template.cpp]
+
 *The exterior of a binary tree* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Exterior_binary_tree_template.cpp Exterior_binary_tree_template.cpp]
+
 *Lowest common ancestor in a binary tree* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_no_parent_template.cpp Lowest_common_ancestor_no_parent_template.cpp]
+
 *Lowest common ancestor in a binary tree, with parent pointer* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_template.cpp Lowest_common_ancestor_template.cpp]
+
 *Lowest common ancestor in a binary tree, close ancestor* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_hash_template.cpp Lowest_common_ancestor_hash_template.cpp]
+
 *Shortest unique prefix* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_unique_prefix.cpp Shortest_unique_prefix.cpp]
+
 *Merging sorted files* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_arrays.cpp Merge_sorted_arrays.cpp]
+
 *Minimize the distance in three sorted arrays* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_distance_3_sorted_arrays.cpp Minimum_distance_3_sorted_arrays.cpp]
+
 *Stacks and queues from heap* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_queue_using_heap_template.cpp Stack_queue_using_heap_template.cpp]
+
 *Closest stars* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_stars.cpp Closest_stars.cpp]
+
 *The $k$-th largest element---streaming case* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_element_streaming.cpp k-th_element_streaming.cpp]
+
 *Approximate sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Approximate_sort.cpp Approximate_sort.cpp]
+
 *Closest to median* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_to_median.cpp Closest_to_median.cpp]
+
 *Online median* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_median.cpp Online_median.cpp]
+
 *Generating numbers of the form $a + b \sqrt 2$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Generating_a_b_sqrt2.cpp Generating_a_b_sqrt2.cpp]
+
 *Compare with the $k$-th largest element* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Compare_k-th_largest_in_heap.cpp Compare_k-th_largest_in_heap.cpp]
+
 *Bentley's binary search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bentleybsearch.cpp Bentleybsearch.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c]
+
 *Search a sorted array for first occurrence of $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k_template.cpp Binary_search_first_k_template.cpp]
+
 *Search a sorted array for the first element larger than~$k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k_template.cpp Binary_search_larger_k_template.cpp]
+
 *Search a sorted array for $A[i]=i$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_Ai=i.cpp Binary_search_Ai=i.cpp]
+
 *Search for a pair in an abs-sorted array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_a_pair_sorted_array_template.cpp Search_a_pair_sorted_array_template.cpp]
+
 *Search a cyclically sorted array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_template.cpp Binary_search_circular_array_template.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_with_duplicates_template.cpp Binary_search_circular_array_with_duplicates_template.cpp]
+
 *Search a sorted array of unknown length* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_unknown_length_template.cpp Binary_search_unknown_length_template.cpp]
+
 *Completion search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Completion_search.cpp Completion_search.cpp]
+
 *Searching in two sorted arrays* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_kth_element_in_two_sorted_arrays_template.cpp Find_kth_element_in_two_sorted_arrays_template.cpp]
+
 *Computing square roots* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Square_root.cpp Square_root.cpp]
+
 *$2$D array search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_search.cpp Matrix_search.cpp]
+
 *Finding the min and max simultaneously* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Finding_min_max.cpp Finding_min_max.cpp]
+
 *The $k$-th largest element* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_template.cpp k-th_largest_element_template.cpp]
+
 *The $k$-th largest element---large $n$ and small $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp]
+
 *Finding a missing element* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Missing_element.cpp Missing_element.cpp]
+
 *Find the duplicate and missing elements* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate.cpp Find_missing_and_duplicate.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate_XOR.cpp Find_missing_and_duplicate_XOR.cpp]
+
 *Find the element that appears only once* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_element_appears_once.cpp Find_element_appears_once.cpp]
+
 *Searching an array with close entries* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Close_search.cpp Close_search.cpp]
+
 *Majority find* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_majority.cpp Search_majority.cpp]
+
 *Design a hash function for dictionaries* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hash_dictionary.cpp Hash_dictionary.cpp]
+
 *Binary tree compression* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BinaryTreeCanonical.java BinaryTreeCanonical.java]
+
 *Anagrams* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anagrams.cpp Anagrams.cpp]
+
 *Can a string be permuted to form a palindrome?* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_hash.cpp Can_string_be_palindrome_hash.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_sort.cpp Can_string_be_palindrome_sort.cpp]
+
 *Anonymous letter* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anonymous_letter.cpp Anonymous_letter.cpp]
+
 *Line through the most points* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Line_most_points.cpp Line_most_points.cpp]
+
 *Search for frequent items* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_frequent_items.cpp Search_frequent_items.cpp]
+
 *Smallest subarray covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.cpp Smallest_subarray_covering_set.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.cpp Smallest_subarray_covering_set_stream.cpp]
+
 *Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SubseqCover.java SubseqCover.java]
+
 *Intersect two sorted arrays* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp]
+
 *Team photo day---1* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp]
+
 *Count the occurrences of characters in a sentence* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_occurrences_in_sentence.cpp Count_occurrences_in_sentence.cpp]
+
 *Unique elements* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Eliminate_duplicate.cpp Eliminate_duplicate.cpp]
+
 *Task assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Task_assignment.cpp Task_assignment.cpp]
+
 *Rendering a calendar* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rendering_calendar.cpp Rendering_calendar.cpp]
+
 *Union of intervals* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Union_intervals.cpp Union_intervals.cpp]
+
 *Points covering intervals* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals.cpp Points_covering_intervals.cpp]
+
 *The 3-sum problem* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/3-sum.cpp 3-sum.cpp]
+
 *Binary Search Tree prototype* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h]
+
 *Does a binary tree satisfy the BST property?* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST.cpp is_binary_tree_a_BST.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_const_space.cpp is_binary_tree_a_BST_const_space.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_BFS.cpp is_binary_tree_a_BST_BFS.cpp]
+
 *Successor in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Successor_BST.cpp Successor_BST.cpp]
+
 *Updating a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Update_BST.cpp Update_BST.cpp]
+
 *Search a BST for first occurrence of $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_recursive.cpp Search_BST_for_first_occurrence_recursive.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_iterative.cpp Search_BST_for_first_occurrence_iterative.cpp]
+
 *Search BST for the first key larger than $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_first_larger_k.cpp Search_BST_first_larger_k.cpp]
+
 *Min-first BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_min_first_BST.cpp Search_min_first_BST.cpp]
+
 *Building a BST from a sorted array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Build_BST_from_sorted_array.cpp Build_BST_from_sorted_array.cpp]
+
 *Build a BST from a sorted linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sorted_list_to_BST.cpp Sorted_list_to_BST.cpp]
+
 *Convert a BST to sorted doubly linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_to_sorted_doubly_list.cpp BST_to_sorted_doubly_list.cpp]
+
 *Merge two BSTs* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_two_BSTs.cpp Merge_two_BSTs.cpp]
+
 *Find the $k$ largest elements in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_k_largest_BST.cpp Find_k_largest_BST.cpp]
+
 *Traversal orders in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp]
+
 *Lowest common ancestor in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp]
+
 *Descendant and ancestor* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp]
+
 *View from above* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_from_above.cpp View_from_above.cpp]
+
 *Drawing the skyline* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Drawing_skylines.cpp Drawing_skylines.cpp]
+
 *Counting inversions* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_inversions.cpp Count_inversions.cpp]
+
 *Tree diameter* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tree_diameter.cpp Tree_diameter.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max-sum_subarray.cpp Max-sum_subarray.cpp]
+
 *Maximum subarray sum in a circular array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array.cpp Maximum_subarray_in_circular_array.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array_constant_space.cpp Maximum_subarray_in_circular_array_constant_space.cpp]
+
 *Longest nondecreasing subsequence* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_n2.cpp Longest_nondecreasing_subsequence_n2.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_nlogn.cpp Longest_nondecreasing_subsequence_nlogn.cpp]
+
 *Longest subarray whose sum $\leq k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_subarray_k.cpp Longest_subarray_k.cpp]
+
 *Largest rectangle under the skyline* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Largest_rectangle_under_skyline.cpp Largest_rectangle_under_skyline.cpp]
+
 *Maximum $2$D subarray* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle.cpp Max_submatrix_rectangle.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_square.cpp Max_submatrix_square.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle_improved.cpp Max_submatrix_rectangle_improved.cpp]
+
 *Searching for a sequence in a $2$D array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StringInMatrix.java StringInMatrix.java]
+
 *Levenshtein distances* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Levenshtein_distance.cpp Levenshtein_distance.cpp]
+
 *Word breaking* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Word_breaking.cpp Word_breaking.cpp]
+
 *Pretty printing* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Pretty_printing.cpp Pretty_printing.cpp]
+
 *Computing the binomial coefficients* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_binomial_coefficients.cpp Computing_binomial_coefficients.cpp]
+
 *Score combinations* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_combination.cpp Score_combination.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_permutation.cpp Score_permutation.cpp]
+
 *Number of ways* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways.cpp Number_ways.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways_obstacles.cpp Number_ways_obstacles.cpp]
+
 *Planning a fishing trip* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp]
+
 *House of Representatives majority* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/House_majority.cpp House_majority.cpp]
+
 *Picking up coins, maximum gain* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins.cpp Picking_up_coins.cpp]
+
 *Image compression* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Image_compression.cpp Image_compression.cpp]
+
 *Minimize waiting time* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_waiting_time.cpp Minimum_waiting_time.cpp]
+
 *Load balancing* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Load_balancing.cpp Load_balancing.cpp]
+
 *Packing for USPS priority mail* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tournament_tree.cpp Tournament_tree.cpp]
+
 *Huffman coding* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Huffman_encoding.cpp Huffman_encoding.cpp]
+
 *Searching a maze* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_maze.cpp Search_maze.cpp]
+
 *Transform one string to another* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Transform_string_to_other.cpp Transform_string_to_other.cpp]
+
 *Wiring a printed circuit board* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Wiring_circuit_board.cpp Wiring_circuit_board.cpp]
+
 *Degrees of connectedness* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/2-exists.cpp 2-exists.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/2-for-all.cpp 2-for-all.cpp]
+
 *Extended contacts* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Transitive_closure.cpp Transitive_closure.cpp]
+
 *Theory of equality* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Theory_of_equality.cpp Theory_of_equality.cpp]
+
 *Team photo day---2* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_2.cpp Team_photo_2.cpp]
+
 *Shortest path with fewest edges* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_path_fewest_edges.cpp Shortest_path_fewest_edges.cpp]
+
 *Road network* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Road_network.cpp Road_network.cpp]
+
 *Arbitrage* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Arbitrage.cpp Arbitrage.cpp]
+
 *Ties in a presidential election* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Ties_election.cpp Ties_election.cpp]
+
 *The knapsack problem* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-1_knapsack.cpp 0-1_knapsack.cpp]
+
 *Dividing the spoils* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_subarray_difference.cpp Minimum_subarray_difference.cpp]
+
 *Measuring with defective jugs* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Three_jugs.cpp Three_jugs.cpp]
+
 *Sudoku solver* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SudokuSolver.java SudokuSolver.java]
 *Expression synthesis* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Add_operators_in_string.cpp Add_operators_in_string.cpp]
+
 *Computing $x^n$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_x^n.cpp Computing_x^n.cpp]
+
 *Checking the Collatz conjecture* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Collatz_conjecture.cpp Collatz_conjecture.cpp]
+
 *Service with caching* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S1.java S1.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S2.java S2.java]
+
 *Thread pools* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SimpleWebServer.java SimpleWebServer.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/ThreadPerTaskWebserver.java ThreadPerTaskWebserver.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TaskExecutionWebServer.java TaskExecutionWebServer.java]
+
 *Asynchronous callbacks* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/AsyncThread.java AsyncThread.java]
+
 *Readers-writers* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RW.java RW.java]
+
 *Checking the Collatz conjecture in parallel* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Collatz.java Collatz.java]
+
 *UNIX tail* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tail.cpp Tail.cpp]
+
 *Offline sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_sampling.cpp Offline_sampling.cpp]
+
 *Uniform random number generation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Uniform_random_number_generation.cpp Uniform_random_number_generation.cpp]
+
 *Reservoir sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reservoir_sampling.cpp Reservoir_sampling.cpp]
+
 *Online sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_sampling.cpp Online_sampling.cpp]
+
 *Differentiating biased coins* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TailCoin.java TailCoin.java]
+
 *Randomized primality checking* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java]
+
 *500 doors* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doors.java Doors.java]
+
+
+*Find the duplicate and missing elements* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate.cpp Find_missing_and_duplicate.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate_XOR.cpp Find_missing_and_duplicate_XOR.cpp]
+
+*Find the element that appears only once* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_element_appears_once.cpp Find_element_appears_once.cpp]
+
+*Searching an array with close entries* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Close_search.cpp Close_search.cpp]
+
+*Majority find* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_majority.cpp Search_majority.cpp]
+
+*Design a hash function for dictionaries* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hash_dictionary.cpp Hash_dictionary.cpp]
+
+*Binary tree compression* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BinaryTreeCanonical.java BinaryTreeCanonical.java]
+
+*Anagrams* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anagrams.cpp Anagrams.cpp]
+
+*Can a string be permuted to form a palindrome?* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_hash.cpp Can_string_be_palindrome_hash.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_sort.cpp Can_string_be_palindrome_sort.cpp]
+
+*Anonymous letter* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anonymous_letter.cpp Anonymous_letter.cpp]
+
+*Line through the most points* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Line_most_points.cpp Line_most_points.cpp]
+
+*Search for frequent items* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_frequent_items.cpp Search_frequent_items.cpp]
+
+*Smallest subarray covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.cpp Smallest_subarray_covering_set.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.cpp Smallest_subarray_covering_set_stream.cpp]
+
+*Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SubseqCover.java SubseqCover.java]
+
+*Intersect two sorted arrays* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp]
+
+*Team photo day---1* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp]
+
+*Count the occurrences of characters in a sentence* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_occurrences_in_sentence.cpp Count_occurrences_in_sentence.cpp]
+
+*Unique elements* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Eliminate_duplicate.cpp Eliminate_duplicate.cpp]
+
+*Task assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Task_assignment.cpp Task_assignment.cpp]
+
+*Rendering a calendar* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rendering_calendar.cpp Rendering_calendar.cpp]
+
+*Union of intervals* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Union_intervals.cpp Union_intervals.cpp]
+
+*Points covering intervals* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals.cpp Points_covering_intervals.cpp]
+
+*The 3-sum problem* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/3-sum.cpp 3-sum.cpp]
+
+*Binary Search Tree prototype* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h]
+
+*Does a binary tree satisfy the BST property?* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST.cpp is_binary_tree_a_BST.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_const_space.cpp is_binary_tree_a_BST_const_space.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_BFS.cpp is_binary_tree_a_BST_BFS.cpp]
+
+*Successor in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Successor_BST.cpp Successor_BST.cpp]
+
+*Updating a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Update_BST.cpp Update_BST.cpp]
+
+*Search a BST for first occurrence of $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_recursive.cpp Search_BST_for_first_occurrence_recursive.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_iterative.cpp Search_BST_for_first_occurrence_iterative.cpp]
+
+*Search BST for the first key larger than $k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_first_larger_k.cpp Search_BST_first_larger_k.cpp]
+
+*Min-first BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_min_first_BST.cpp Search_min_first_BST.cpp]
+
+*Building a BST from a sorted array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Build_BST_from_sorted_array.cpp Build_BST_from_sorted_array.cpp]
+
+*Build a BST from a sorted linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sorted_list_to_BST.cpp Sorted_list_to_BST.cpp]
+
+*Convert a BST to sorted doubly linked list* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_to_sorted_doubly_list.cpp BST_to_sorted_doubly_list.cpp]
+
+*Merge two BSTs* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_two_BSTs.cpp Merge_two_BSTs.cpp]
+
+*Find the $k$ largest elements in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_k_largest_BST.cpp Find_k_largest_BST.cpp]
+
+*Traversal orders in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp]
+
+*Lowest common ancestor in a BST* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp]
+
+*Descendant and ancestor* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp]
+
+*View from above* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_from_above.cpp View_from_above.cpp]
+
+*Drawing the skyline* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Drawing_skylines.cpp Drawing_skylines.cpp]
+
+*Counting inversions* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_inversions.cpp Count_inversions.cpp]
+
+*Tree diameter* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tree_diameter.cpp Tree_diameter.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max-sum_subarray.cpp Max-sum_subarray.cpp]
+
+*Maximum subarray sum in a circular array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array.cpp Maximum_subarray_in_circular_array.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array_constant_space.cpp Maximum_subarray_in_circular_array_constant_space.cpp]
+
+*Longest nondecreasing subsequence* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_n2.cpp Longest_nondecreasing_subsequence_n2.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_nlogn.cpp Longest_nondecreasing_subsequence_nlogn.cpp]
+
+*Longest subarray whose sum $\leq k$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_subarray_k.cpp Longest_subarray_k.cpp]
+
+*Largest rectangle under the skyline* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Largest_rectangle_under_skyline.cpp Largest_rectangle_under_skyline.cpp]
+
+*Maximum $2$D subarray* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle.cpp Max_submatrix_rectangle.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_square.cpp Max_submatrix_square.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle_improved.cpp Max_submatrix_rectangle_improved.cpp]
+
+*Searching for a sequence in a $2$D array* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StringInMatrix.java StringInMatrix.java]
+
+*Levenshtein distances* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Levenshtein_distance.cpp Levenshtein_distance.cpp]
+
+*Word breaking* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Word_breaking.cpp Word_breaking.cpp]
+
+*Pretty printing* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Pretty_printing.cpp Pretty_printing.cpp]
+
+*Computing the binomial coefficients* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_binomial_coefficients.cpp Computing_binomial_coefficients.cpp]
+
+*Score combinations* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_combination.cpp Score_combination.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_permutation.cpp Score_permutation.cpp]
+
+*Number of ways* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways.cpp Number_ways.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways_obstacles.cpp Number_ways_obstacles.cpp]
+
+*Planning a fishing trip* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp]
+
+*House of Representatives majority* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/House_majority.cpp House_majority.cpp]
+
+*Picking up coins, maximum gain* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins.cpp Picking_up_coins.cpp]
+
+*Image compression* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Image_compression.cpp Image_compression.cpp]
+
+*Minimize waiting time* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_waiting_time.cpp Minimum_waiting_time.cpp]
+
+*Load balancing* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Load_balancing.cpp Load_balancing.cpp]
+
+*Packing for USPS priority mail* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tournament_tree.cpp Tournament_tree.cpp]
+
+*Huffman coding* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Huffman_encoding.cpp Huffman_encoding.cpp]
+
+*Searching a maze* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_maze.cpp Search_maze.cpp]
+
+*Transform one string to another* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Transform_string_to_other.cpp Transform_string_to_other.cpp]
+
+*Wiring a printed circuit board* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Wiring_circuit_board.cpp Wiring_circuit_board.cpp]
+
+*Degrees of connectedness* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/2-exists.cpp 2-exists.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/2-for-all.cpp 2-for-all.cpp]
+
+*Extended contacts* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Transitive_closure.cpp Transitive_closure.cpp]
+
+*Theory of equality* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Theory_of_equality.cpp Theory_of_equality.cpp]
+
+*Team photo day---2* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_2.cpp Team_photo_2.cpp]
+
+*Shortest path with fewest edges* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_path_fewest_edges.cpp Shortest_path_fewest_edges.cpp]
+
+*Road network* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Road_network.cpp Road_network.cpp]
+
+*Arbitrage* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Arbitrage.cpp Arbitrage.cpp]
+
+*Ties in a presidential election* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Ties_election.cpp Ties_election.cpp]
+
+*The knapsack problem* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-1_knapsack.cpp 0-1_knapsack.cpp]
+
+*Dividing the spoils* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_subarray_difference.cpp Minimum_subarray_difference.cpp]
+
+*Measuring with defective jugs* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Three_jugs.cpp Three_jugs.cpp]
+
+*Sudoku solver* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SudokuSolver.java SudokuSolver.java]
+*Expression synthesis* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Add_operators_in_string.cpp Add_operators_in_string.cpp]
+
+*Computing $x^n$* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_x^n.cpp Computing_x^n.cpp]
+
+*Checking the Collatz conjecture* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Collatz_conjecture.cpp Collatz_conjecture.cpp]
+
+*Service with caching* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S1.java S1.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S2.java S2.java]
+
+*Thread pools* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SimpleWebServer.java SimpleWebServer.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/ThreadPerTaskWebserver.java ThreadPerTaskWebserver.java][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TaskExecutionWebServer.java TaskExecutionWebServer.java]
+
+*Asynchronous callbacks* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/AsyncThread.java AsyncThread.java]
+
+*Readers-writers* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RW.java RW.java]
+
+*Checking the Collatz conjecture in parallel* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Collatz.java Collatz.java]
+
+*UNIX tail* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tail.cpp Tail.cpp]
+
+*Offline sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_sampling.cpp Offline_sampling.cpp]
+
+*Uniform random number generation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Uniform_random_number_generation.cpp Uniform_random_number_generation.cpp]
+
+*Reservoir sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reservoir_sampling.cpp Reservoir_sampling.cpp]
+
+*Online sampling* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_sampling.cpp Online_sampling.cpp]
+
+*Differentiating biased coins* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TailCoin.java TailCoin.java]
+
+*Randomized primality checking* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java]
+
+*500 doors* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doors.java Doors.java]
+
 *The gasup problem* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gassing_up.cpp Gassing_up.cpp]
+
 *Closest palindrome* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_palindrome.cpp Closest_palindrome.cpp]
+
 *The maximum product of $(n - 1)$ numbers* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1.cpp Biggest_product_n-1.cpp][https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1_math.cpp Biggest_product_n-1_math.cpp]
+
 *Height determination* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Ball.java Ball.java]
+
 *Celebrity identification* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp]
