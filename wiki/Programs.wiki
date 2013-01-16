@@ -11,6 +11,16 @@ also contact us directly, contact information is at the same page.
 
 *Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
 
+*Normalized path names* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/normalized_pathnames.cpp normalized_pathnames.cpp]
+
+*Subsequence cover* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
+
+*Indirect sort* [[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+
+*Gaussian primes* p[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
+
+
+
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
@@ -107,19 +117,19 @@ also contact us directly, contact information is at the same page.
 
 *Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_skip_list_template.cpp Copying_skip_list_template.cpp] 
 
-*Stack with max operation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.cpp Stack_with_max_template.cpp] 
+*Stack with max operation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
-*Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.java RPN.java] 
+*Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
 
 *Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order_template.cpp BST_sorted_order_template.cpp] 
 
 *Searching a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_recursive_template.cpp Search_skip_list_recursive_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_iterative_template.cpp Search_skip_list_iterative_template.cpp] 
 
-*Towers of Hanoi*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hanoi.java Hanoi.java] 
+*Towers of Hanoi*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/tower_hanoi.cpp tower_hanoi.cpp] 
 
 *Views of the sunset*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_sunset.cpp View_sunset.cpp] 
 
-*Stack sorting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StackSort.java StackSort.java] 
+*Stack sorting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_sorting.cpp Stack_sorting.cpp] 
 
 *Printing a binary tree in level order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order_template.cpp Binary_tree_level_order_template.cpp] 
 
@@ -129,9 +139,9 @@ also contact us directly, contact information is at the same page.
 
 *Queue from two stacks*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_from_stacks_template.cpp Queue_from_stacks_template.cpp] 
 
-*Queue with max*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max.cpp Queue_with_max.cpp] 
+*Queue with max*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max_using_deque.cpp Queue_with_max_using_deque.cpp] 
 
-*Maximum of a sliding window*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_sliding_window_template.cpp Maximum_sliding_window_template.cpp] 
+*Maximum of a sliding window*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sliding_window.cpp Sliding_window.cpp] 
 
 *Binary tree prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h] 
 
@@ -308,7 +318,7 @@ also contact us directly, contact information is at the same page.
 
 *Maximum 2D subarray*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle.cpp Max_submatrix_rectangle.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_square.cpp Max_submatrix_square.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle_improved.cpp Max_submatrix_rectangle_improved.cpp] 
 
-*Searching for a sequence in a 2D array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/StringInMatrix.java StringInMatrix.java] 
+*Searching for a sequence in a 2D array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_in_matrix.cpp String_in_matrix.cpp] 
 
 *Levenshtein distances*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Levenshtein_distance.cpp Levenshtein_distance.cpp] 
 
