@@ -7,6 +7,10 @@ Programs are presented in the order in which they appear in the book. Please use
 the Quora forum linked on the elementsofprogramminginterviews.com page to discuss problems. You can
 also contact us directly, contact information is at the same page.
 
+*Equivalence classes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Equiv_classes.cpp Equiv_classes.cpp]
+
+*Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
+
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
@@ -25,7 +29,7 @@ also contact us directly, contact information is at the same page.
 
 *Spreadsheet column encoding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spreadsheet_encoding.cpp Spreadsheet_encoding.cpp] 
 
-*Elias gamma coding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Elias.java Elias.java] 
+*Elias gamma coding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Elias_coding.cpp Elias_coding.cpp] 
 
 *Greatest common divisor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GreatestCommonDivisor.java GreatestCommonDivisor.java] 
 
@@ -39,7 +43,9 @@ also contact us directly, contact information is at the same page.
 
 *Dutch national flag*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Dutch_national_flag.cpp Dutch_national_flag.cpp] 
 
-*Max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp] 
+*Max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp]
+
+*Max difference, k pairs*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_difference_k_pairs.cpp Max_difference_k_pairs.cpp.cpp]  
 
 *Subset summing to 0 mod n*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-sum_subset.cpp 0-sum_subset.cpp] 
 
@@ -55,9 +61,9 @@ also contact us directly, contact information is at the same page.
 
 *Rotate an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array_permutation.cpp Rotate_array_permutation.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array.cpp Rotate_array.cpp] 
 
-*Sudoku checker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SudokuChecker.java SudokuChecker.java] 
+*Sudoku checker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_check.cpp Sudoku_check.cpp] 
 
-*Print 2D array in spiral order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/PrintMatrixSpiral.java PrintMatrixSpiral.java]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix.cpp Spiral_matrix.cpp] 
+*Print 2D array in spiral order*    [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix_clockwise.cpp Spiral_matrix_clockwise.cpp] 
 
 *Painting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_iterative.cpp Painting_iterative.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_recursive.cpp Painting_recursive.cpp] 
 
@@ -73,7 +79,7 @@ also contact us directly, contact information is at the same page.
 
 *DNA matching with wildcard characters*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp] 
 
-*Regular expression matching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RegExp.java RegExp.java] 
+*Regular expression matching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Regular_expression.cpp Regular_expression.cpp] 
 
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h] 
 
