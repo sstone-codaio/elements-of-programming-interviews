@@ -7,6 +7,14 @@ Programs are presented in the order in which they appear in the book. Please use
 the Quora forum linked on the elementsofprogramminginterviews.com page to discuss problems. You can
 also contact us directly, contact information is at the same page.
 
+Custom library code used in multiple places in solutions: 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_parent_prototype.h BST_parent_prototype.h]
+ [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_utils.h Binary_tree_utils.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_with_parent_prototype.h Binary_tree_with_parent_prototype.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Postings_list_prototype.h Postings_list_prototype.h]
 
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
@@ -376,7 +384,8 @@ also contact us directly, contact information is at the same page.
 
 *Measuring with defective jugs*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Three_jugs.cpp Three_jugs.cpp] 
 
-*Sudoku solver*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SudokuSolver.java SudokuSolver.java] 
+*Sudoku solver*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_solve.cpp Sudoku_solve.cpp] 
+
 *Expression synthesis*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Add_operators_in_string.cpp Add_operators_in_string.cpp] 
 
 *Computing the n-th power of x*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_x^n.cpp Computing_x^n.cpp] 
@@ -406,7 +415,7 @@ also contact us directly, contact information is at the same page.
 
 *Randomized primality checking*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java] 
 
-*500 doors*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doors.java Doors.java] 
+*500 doors*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doors.cpp Doors.cpp] 
 
 *The gasup problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gassing_up.cpp Gassing_up.cpp] 
 
@@ -415,6 +424,8 @@ also contact us directly, contact information is at the same page.
 *The maximum product of (n - 1) numbers*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1.cpp Biggest_product_n-1.cpp]  
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1_math.cpp Biggest_product_n-1_math.cpp] 
 
-*Height determination*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Ball.java Ball.java] 
+*Height determination*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Height_determination.cpp Height_determination.cpp] 
+
+*Symmetric-Whack-a-Mole* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_elimination.cpp Gaussian_elimination.cpp]
 
 *Celebrity identification*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp] 
