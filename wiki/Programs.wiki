@@ -8,13 +8,6 @@ the Quora forum linked on the elementsofprogramminginterviews.com page to discus
 also contact us directly, contact information is at the same page.
 
 
-
-*Indirect sort* [[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
-
-*Gaussian primes* p[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
-
-
-
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
@@ -251,6 +244,11 @@ also contact us directly, contact information is at the same page.
 
 *Smallest subarray covering set*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.cpp Smallest_subarray_covering_set.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.cpp Smallest_subarray_covering_set_stream.cpp] 
 
+
+*Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
+
+*Indirect sort* [[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+
 *Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp] 
 
 *Team photo day - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp] 
@@ -296,6 +294,8 @@ also contact us directly, contact information is at the same page.
 *Traversal orders in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp] 
 
 *Lowest common ancestor in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp] 
+
+*Gaussian primes* p[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
 
 *Descendant and ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp] 
 
