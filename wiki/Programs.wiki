@@ -7,13 +7,7 @@ Programs are presented in the order in which they appear in the book. Please use
 the Quora forum linked on the elementsofprogramminginterviews.com page to discuss problems. You can
 also contact us directly, contact information is at the same page.
 
-*Equivalence classes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Equiv_classes.cpp Equiv_classes.cpp]
 
-*Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
-
-*Normalized path names* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/normalized_pathnames.cpp normalized_pathnames.cpp]
-
-*Subsequence cover* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
 
 *Indirect sort* [[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
 
@@ -61,7 +55,10 @@ also contact us directly, contact information is at the same page.
 
 *Longest contiguous increasing subarray*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_increasing_subarray.cpp Longest_increasing_subarray.cpp] 
 
-*Computing equivalence classes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/EquivClasses.java EquivClasses.java] 
+*Computing equivalence classes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Equiv_classes.cpp Equiv_classes.cpp]
+
+*Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
+
 
 *`BigInteger` multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
 
@@ -130,6 +127,8 @@ also contact us directly, contact information is at the same page.
 *Views of the sunset*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_sunset.cpp View_sunset.cpp] 
 
 *Stack sorting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_sorting.cpp Stack_sorting.cpp] 
+
+*Normalized path names* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/normalized_pathnames.cpp normalized_pathnames.cpp]
 
 *Printing a binary tree in level order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order_template.cpp Binary_tree_level_order_template.cpp] 
 
