@@ -1,11 +1,11 @@
 #summary Index of Programs
 #labels Featured,Phase-Implementation
 
-= Notes =
+= EPI problems to program mapping =
 
 Programs are presented in the order in which they appear in the book. Please use
 the Quora forum linked on the {{{elementsofprogramminginterviews.com}}} page to discuss problems. You can
-also contact us directly, contact information is at the same page.
+also contact us directly - contact information is at the same page.
 
 Custom library code used in multiple places in solutions: 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_parent_prototype.h BST_parent_prototype.h], [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h], [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h], 
