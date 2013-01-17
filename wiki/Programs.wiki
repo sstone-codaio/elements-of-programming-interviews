@@ -46,6 +46,8 @@ Custom library code used in multiple places in solutions:
 
 *Dutch national flag*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Dutch_national_flag.cpp Dutch_national_flag.cpp] 
 
+*Lazy initialization*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/lazy-init.cpp lazy-init.cpp]
+
 *Max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp]
 
 *Max difference, k pairs*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_difference_k_pairs.cpp Max_difference_k_pairs.cpp.cpp]  
@@ -69,7 +71,7 @@ Custom library code used in multiple places in solutions:
 
 *Sudoku checker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_check.cpp Sudoku_check.cpp] 
 
-*Print 2D array in spiral order*    [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix_clockwise.cpp Spiral_matrix_clockwise.cpp] 
+*Print 2D array in spiral order*    [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix_clockwise.cpp Spiral_matrix_clockwise.cpp] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix.cpp Spiral_matrix.cpp] 
 
 *Painting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_iterative.cpp Painting_iterative.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_recursive.cpp Painting_recursive.cpp] 
 
@@ -83,11 +85,13 @@ Custom library code used in multiple places in solutions:
 
 *Phone number mnemonic*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Phone_mnemonic.cpp Phone_mnemonic.cpp] 
 
-*DNA matching with wildcard characters*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp] 
+*DNA matching with wildcard characters* (v-1.0) [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp] 
 
 *Regular expression matching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Regular_expression.cpp Regular_expression.cpp] 
 
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h] 
+
+*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.cpp Merge_sorted_lists_template.cpp] 
 
 *Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_template.cpp Checking_cycle_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
 
@@ -98,8 +102,6 @@ Custom library code used in multiple places in solutions:
 *Overlapping lists - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp] 
 
 *Even-odd merge*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list_template.cpp Even_odd_merge_linked_list_template.cpp] 
-
-*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.cpp Merge_sorted_lists_template.cpp] 
 
 *Deletion from a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Deletion_list_template.cpp Deletion_list_template.cpp] 
 
@@ -113,7 +115,7 @@ Custom library code used in multiple places in solutions:
 
 *Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_skip_list_template.cpp Copying_skip_list_template.cpp] 
 
-*Stack with max operation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
+*Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.cpp Stack_with_max_template.cpp] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
 *Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
 
@@ -253,7 +255,7 @@ Custom library code used in multiple places in solutions:
 
 *Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
 
-*Indirect sort* [[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+*Indirect sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
 
 *Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp] 
 
@@ -305,6 +307,10 @@ Custom library code used in multiple places in solutions:
 
 *Descendant and ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp] 
 
+*Nearest restaurant*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Nearest_restaurant.cpp Nearest_restaurant.cpp] 
+
+*Adding credits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/AddingCredits.cpp AddingCredits.cpp] 
+
 *View from above*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_from_above.cpp View_from_above.cpp] 
 
 *Drawing the skyline*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Drawing_skylines.cpp Drawing_skylines.cpp] 
@@ -337,6 +343,8 @@ Custom library code used in multiple places in solutions:
 *Score combinations*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_combination.cpp Score_combination.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_permutation.cpp Score_permutation.cpp] 
 
 *Number of ways*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways.cpp Number_ways.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways_obstacles.cpp Number_ways_obstacles.cpp] 
+
+*Picking up coins, maximum gain*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp] 
 
 *Planning a fishing trip*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp] 
 
@@ -410,6 +418,8 @@ Custom library code used in multiple places in solutions:
 
 *Online sampling*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_sampling.cpp Online_sampling.cpp] 
 
+*The multibet card color game* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/CardSelect.java CardSelect.java]
+
 *Differentiating biased coins*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TailCoin.java TailCoin.java] 
 
 *Randomized primality checking*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java] 
@@ -428,3 +438,5 @@ Custom library code used in multiple places in solutions:
 *Symmetric-Whack-a-Mole* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_elimination.cpp Gaussian_elimination.cpp]
 
 *Celebrity identification*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp] 
+
+*Stable_assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
