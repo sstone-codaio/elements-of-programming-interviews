@@ -439,4 +439,4 @@ Custom library code used in multiple places in solutions:
 
 *Celebrity identification*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp] 
 
-*Stable_assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
+*Stable assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
