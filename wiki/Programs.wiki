@@ -59,7 +59,7 @@ Custom library code used in multiple places in solutions:
 *Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
 
 
-*`BigInteger` multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
+*BigInteger multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
 
 *Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.cpp Permutation_array1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.cpp Permutation_array2.cpp] 
 
@@ -409,6 +409,7 @@ Custom library code used in multiple places in solutions:
 *Reservoir sampling*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reservoir_sampling.cpp Reservoir_sampling.cpp] 
 
 *Online sampling*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_sampling.cpp Online_sampling.cpp] 
+
 *Differentiating biased coins*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TailCoin.java TailCoin.java] 
 
 *Randomized primality checking*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java] 
