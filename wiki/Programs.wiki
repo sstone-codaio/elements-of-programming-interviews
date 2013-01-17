@@ -61,7 +61,7 @@ Custom library code used in multiple places in solutions:
 *Offline minimum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Offline_minimum.cpp Offline_minimum.cpp]
 
 
-*BigInteger multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
+*`BigInteger` multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
 
 *Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.cpp Permutation_array1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.cpp Permutation_array2.cpp] 
 
