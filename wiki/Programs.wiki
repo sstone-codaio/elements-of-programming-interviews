@@ -350,7 +350,7 @@ Custom library code used in multiple places in solutions:
 
 *House of Representatives majority*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/House_majority.cpp House_majority.cpp] 
 
-*Picking up coins, maximum gain*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins_dont_lose.cpp Picking_up_coins_dont_lose.cpp] 
+*Picking up coins, dont't lose*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins_dont_lose.cpp Picking_up_coins_dont_lose.cpp] 
 
 *Image compression*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Image_compression.cpp Image_compression.cpp] 
 
