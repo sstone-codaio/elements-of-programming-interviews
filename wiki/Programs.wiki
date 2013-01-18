@@ -344,9 +344,9 @@ Custom library code used in multiple places in solutions:
 
 *Number of ways*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways.cpp Number_ways.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Number_ways_obstacles.cpp Number_ways_obstacles.cpp] 
 
-*Picking up coins, maximum gain*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp] 
-
 *Planning a fishing trip*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Planning_fishing.cpp Planning_fishing.cpp] 
+
+*Picking up coins, maximum gain*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins.cpp Picking_up_coins.cpp] 
 
 *House of Representatives majority*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/House_majority.cpp House_majority.cpp] 
 
