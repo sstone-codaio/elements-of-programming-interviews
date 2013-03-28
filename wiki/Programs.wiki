@@ -81,6 +81,8 @@ Custom library code used in multiple places in solutions:
 
 *Reverse all the words in a sentence*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_words.cpp Reverse_words.cpp] 
 
+*Find the first occurrence of a substring*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/rabin-karp.cpp rabin-karp.cpp]
+
 *Replace and remove*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Replace_and_remove.cpp Replace_and_remove.cpp] 
 
 *Phone number mnemonic*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Phone_mnemonic.cpp Phone_mnemonic.cpp] 
