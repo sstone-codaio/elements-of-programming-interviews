@@ -200,7 +200,9 @@ Custom library code used in multiple places in solutions:
 
 *Compare with the k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Compare_k-th_largest_in_heap.cpp Compare_k-th_largest_in_heap.cpp] 
 
-*Bentley's binary search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bentleybsearch.cpp Bentleybsearch.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
+*Bentley's binary search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bentleybsearch.cpp Bentleybsearch.cpp]  
+
+*Overflow binary search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
 
 *Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k_template.cpp Binary_search_first_k_template.cpp] 
 
