@@ -117,7 +117,7 @@ Custom library code used in multiple places in solutions:
 
 *Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_skip_list_template.cpp Copying_skip_list_template.cpp] 
 
-*Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.cpp Stack_with_max_template.cpp] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
+*Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.h Stack_with_max_template.h] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
 *Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
 
