@@ -321,6 +321,8 @@ Custom library code used in multiple places in solutions:
 
 *Counting inversions*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_inversions.cpp Count_inversions.cpp] 
 
+*Closest pair of points*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_pair_points.cpp Closest_pair_points.cpp] 
+
 *Tree diameter*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tree_diameter.cpp Tree_diameter.cpp]  
 
 *Maximum subarray sum* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max-sum_subarray.cpp Max-sum_subarray.cpp] 
