@@ -141,8 +141,8 @@ Custom library code used in multiple places in solutions:
 
 *Queue from two stacks*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_from_stacks_template.cpp Queue_from_stacks_template.cpp] 
 
-*Queue with max*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max.h Queue_with_max.h] 
-[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max_using_deque.cpp Queue_with_max_using_deque.cpp] 
+*Queue with max*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max.cpp Queue_with_max.cpp] 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max_using_deque.h Queue_with_max_using_deque.h] 
 
 *Maximum of a sliding window*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sliding_window.cpp Sliding_window.cpp] 
 
