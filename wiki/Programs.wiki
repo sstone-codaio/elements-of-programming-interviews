@@ -259,8 +259,9 @@ Custom library code used in multiple places in solutions:
 
 *Smallest subarray covering set*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.cpp Smallest_subarray_covering_set.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.cpp Smallest_subarray_covering_set_stream.cpp] 
 
-
 *Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
+
+*ISBN cache* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/LRUCache.cpp LRUCache.cpp]
 
 *Indirect sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
 
