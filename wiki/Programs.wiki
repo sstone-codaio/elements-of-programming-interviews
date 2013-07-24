@@ -34,7 +34,7 @@ Custom library code used in multiple places in solutions:
 
 *Elias gamma coding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Elias_coding.cpp Elias_coding.cpp] 
 
-*Greatest common divisor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GreatestCommonDivisor.java GreatestCommonDivisor.java] 
+*Greatest common divisor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GCD.cpp GCD.cpp] 
 
 *Enumerating primes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Prime_sieve.cpp Prime_sieve.cpp] 
 
@@ -75,7 +75,8 @@ Custom library code used in multiple places in solutions:
 
 *Painting*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_iterative.cpp Painting_iterative.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Painting_recursive.cpp Painting_recursive.cpp] 
 
-*2D array rotation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_rotation.cpp Matrix_rotation.cpp] 
+*2D array rotation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_rotation_naive.cpp Matrix_rotation_naive.cpp] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_rotation.cpp Matrix_rotation.cpp] 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_rotation_constant.cpp Matrix_rotation_constant.cpp] 
 
 *Run-length encoding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Run_length_compression.cpp Run_length_compression.cpp] 
 
@@ -263,7 +264,9 @@ Custom library code used in multiple places in solutions:
 
 *ISBN cache* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/LRUCache.cpp LRUCache.cpp]
 
-*Indirect sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+*Variable length sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+
+*Counting sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Counting_sort.cpp Counting_sort.cpp]
 
 *Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp] 
 
@@ -308,6 +311,7 @@ Custom library code used in multiple places in solutions:
 *Find the k largest elements in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_k_largest_BST.cpp Find_k_largest_BST.cpp] 
 
 *Traversal orders in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp] 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder_better.cpp Rebuild_BST_preorder_better.cpp]  
 
 *Lowest common ancestor in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp] 
 
@@ -368,6 +372,8 @@ Custom library code used in multiple places in solutions:
 *Image compression*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Image_compression.cpp Image_compression.cpp] 
 
 *Minimize waiting time*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_waiting_time.cpp Minimum_waiting_time.cpp] 
+
+*Job assignment*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/job_assignment.cpp job_assignment.cpp] 
 
 *Load balancing*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Load_balancing.cpp Load_balancing.cpp] 
 
