@@ -368,10 +368,6 @@ Custom library code used in multiple places in solutions:
 
 *House of Representatives majority*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/House_majority.cpp House_majority.cpp] 
 
-*Picking up coins, dont't lose*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins_dont_lose.cpp Picking_up_coins_dont_lose.cpp] 
-
-*n `*` n  chomp*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/nnChomp.pseudo nnChomp.pseudo] 
-
 *Image compression*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Image_compression.cpp Image_compression.cpp] 
 
 *Minimize waiting time*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_waiting_time.cpp Minimum_waiting_time.cpp] 
@@ -442,11 +438,15 @@ Custom library code used in multiple places in solutions:
 
 *The multibet card color game* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Multibet_card_color_game.cpp Multibet_card_color_game.cpp]
 
-*Differentiating biased coins*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/TailCoin.java TailCoin.java] 
+*Differentiating biased coins*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tail_coin.cpp Tail_coin.cpp] 
 
 *Randomized primality checking*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/SolovayStrassen.java SolovayStrassen.java] 
 
 *500 doors*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doors.cpp Doors.cpp] 
+
+*Picking up coins, dont't lose*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Picking_up_coins_dont_lose.cpp Picking_up_coins_dont_lose.cpp] 
+
+*n `*` n  chomp*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/nnChomp.pseudo nnChomp.pseudo] 
 
 *The gasup problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gassing_up.cpp Gassing_up.cpp] 
 
