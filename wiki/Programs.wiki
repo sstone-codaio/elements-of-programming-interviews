@@ -18,7 +18,7 @@ Custom library code used in multiple places in solutions:
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
 
-*Swap bits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.cpp swap_bits.cpp] 
+*Swap bits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.h swap_bits.h] 
 
 *Bit reversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_bits.cpp Reverse_bits.cpp] 
 
