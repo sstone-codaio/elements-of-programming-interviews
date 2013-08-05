@@ -13,10 +13,11 @@ Custom library code used in multiple places in solutions:
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_with_parent_prototype.h Binary_tree_with_parent_prototype.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Postings_list_prototype.h Postings_list_prototype.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/execute-shell.h execute-shell.h]
 
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
-*Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.cpp Parity1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.cpp Parity2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.cpp Parity3.cpp] 
+*Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.h Parity1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.h Parity2.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.h Parity3.h] 
 
 *Swap bits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.h swap_bits.h] 
 
@@ -35,7 +36,7 @@ Custom library code used in multiple places in solutions:
 
 *Elias gamma coding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Elias_coding.cpp Elias_coding.cpp] 
 
-*Greatest common divisor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GCD.cpp GCD.cpp] 
+*Greatest common divisor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/GCD.h GCD.h] 
 
 *Enumerating primes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Prime_sieve.cpp Prime_sieve.cpp] 
 
@@ -51,7 +52,7 @@ Custom library code used in multiple places in solutions:
 
 *Max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Robot_battery.cpp Robot_battery.cpp]
 
-*Max difference, k pairs*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_difference_k_pairs.cpp Max_difference_k_pairs.cpp.cpp]  
+*Generalization of max difference*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_difference_k_pairs.cpp Max_difference_k_pairs.cpp.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_difference_unlimited_pairs.cpp Max_difference_unlimited_pairs.cpp.cpp]  
 
 *Subset summing to 0 mod n*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/0-sum_subset.cpp 0-sum_subset.cpp] 
 
@@ -64,13 +65,13 @@ Custom library code used in multiple places in solutions:
 
 *BigInteger multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
 
-*Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.cpp Permutation_array1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.cpp Permutation_array2.cpp] 
+*Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.h Permutation_array1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.h Permutation_array2.h] 
 
 *Next permutation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Next_permutation.cpp Next_permutation.cpp] 
 
-*Rotate an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array_permutation.cpp Rotate_array_permutation.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array.cpp Rotate_array.cpp] 
+*Rotate an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array_permutation.h Rotate_array_permutation.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rotate_array.h Rotate_array.h] 
 
-*Sudoku checker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_check.cpp Sudoku_check.cpp] 
+*Sudoku checker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_check.h Sudoku_check.h] 
 
 *Print 2D array in spiral order*    [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix_clockwise.cpp Spiral_matrix_clockwise.cpp] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spiral_matrix.cpp Spiral_matrix.cpp] 
 
