@@ -96,7 +96,7 @@ Custom library code used in multiple places in solutions:
 
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h] 
 
-*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.cpp Merge_sorted_lists_template.cpp] 
+*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.h Merge_sorted_lists_template.h] 
 
 *Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_template.cpp Checking_cycle_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
 
