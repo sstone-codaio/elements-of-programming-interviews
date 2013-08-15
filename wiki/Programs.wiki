@@ -98,11 +98,11 @@ Custom library code used in multiple places in solutions:
 
 *Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.h Merge_sorted_lists_template.h] 
 
-*Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_template.cpp Checking_cycle_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
+*Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle.h Checking_cycle.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
 
 *Median of a sorted circular linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list_template.cpp Median_sorted_circular_linked_list_template.cpp] 
 
-*Overlapping lists - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.cpp Overlapping_lists_no_cycle.cpp] 
+*Overlapping lists - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.h Overlapping_lists_no_cycle.h] 
 
 *Overlapping lists - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp] 
 
@@ -112,7 +112,7 @@ Custom library code used in multiple places in solutions:
 
 *Remove the k-th last element from a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Remove_kth_last_list_template.cpp Remove_kth_last_list_template.cpp] 
 
-*Reversing a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_recursive_template.cpp Reverse_linked_list_recursive_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_iterative_template.cpp Reverse_linked_list_iterative_template.cpp] 
+*Reversing a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_recursive_template.cpp Reverse_linked_list_recursive_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_iterative_template.h Reverse_linked_list_iterative_template.h] 
 
 *Palindromicity in linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Palindrome_linked_list_template.cpp Palindrome_linked_list_template.cpp] 
 
