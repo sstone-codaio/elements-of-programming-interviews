@@ -14,6 +14,7 @@ Custom library code used in multiple places in solutions:
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Postings_list_prototype.h Postings_list_prototype.h]
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/execute-shell.h execute-shell.h]
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doubly_linked_list_prototype_template.h Doubly_linked_list_prototype_template.h]
 
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
 
