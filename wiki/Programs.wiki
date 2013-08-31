@@ -187,7 +187,7 @@ Custom library code used in multiple places in solutions:
 
 *Shortest unique prefix*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_unique_prefix.cpp Shortest_unique_prefix.cpp] 
 
-*Merging sorted files*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_arrays.cpp Merge_sorted_arrays.cpp] 
+*Merging sorted files*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_arrays.h Merge_sorted_arrays.h] 
 
 *Minimize the distance in three sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_distance_3_sorted_arrays.cpp Minimum_distance_3_sorted_arrays.cpp] 
 
