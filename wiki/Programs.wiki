@@ -253,7 +253,7 @@ Custom library code used in multiple places in solutions:
 
 *Anagrams*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anagrams.cpp Anagrams.cpp] 
 
-*Can a string be permuted to form a palindrome?*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_hash.cpp Can_string_be_palindrome_hash.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_sort.cpp Can_string_be_palindrome_sort.cpp] 
+*Can a string be permuted to form a palindrome?*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_hash.h Can_string_be_palindrome_hash.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_sorting.h Can_string_be_palindrome_sorting.h] 
 
 *Anonymous letter*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anonymous_letter.cpp Anonymous_letter.cpp] 
 
@@ -261,7 +261,7 @@ Custom library code used in multiple places in solutions:
 
 *Search for frequent items*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_frequent_items.cpp Search_frequent_items.cpp] 
 
-*Smallest subarray covering set*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.cpp Smallest_subarray_covering_set.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.cpp Smallest_subarray_covering_set_stream.cpp] 
+*Smallest subarray covering set*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set.h Smallest_subarray_covering_set.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Smallest_subarray_covering_set_stream.h Smallest_subarray_covering_set_stream.h] 
 
 *Smallest subarray sequentially covering set* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Subseq_cover.cpp Subseq_cover.cpp]
 
