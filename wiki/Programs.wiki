@@ -271,7 +271,7 @@ Custom library code used in multiple places in solutions:
 
 *Counting sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Counting_sort.cpp Counting_sort.cpp]
 
-*Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.cpp Intersect_sorted_arrays1.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.cpp Intersect_sorted_arrays2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.cpp Intersect_sorted_arrays3.cpp] 
+*Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.h Intersect_sorted_arrays1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.h Intersect_sorted_arrays2.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.h Intersect_sorted_arrays3.h] 
 
 *Team photo day - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp] 
 
