@@ -319,7 +319,7 @@ Custom library code used in multiple places in solutions:
 
 *Lowest common ancestor in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp] 
 
-*Gaussian primes* p[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
+*Gaussian primes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
 
 *Descendant and ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp] 
 
