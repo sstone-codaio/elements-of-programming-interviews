@@ -342,11 +342,11 @@ Custom library code used in multiple places in solutions:
 *Maximum subarray sum in a circular array* 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array.cpp Maximum_subarray_in_circular_array.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Maximum_subarray_in_circular_array_constant_space.cpp Maximum_subarray_in_circular_array_constant_space.cpp] 
 
-*Longest nondecreasing subsequence*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_n2.cpp Longest_nondecreasing_subsequence_n2.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_nlogn.cpp Longest_nondecreasing_subsequence_nlogn.cpp] 
+*Longest nondecreasing subsequence*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_n2.h Longest_nondecreasing_subsequence_n2.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_nondecreasing_subsequence_nlogn.h Longest_nondecreasing_subsequence_nlogn.h] 
 
 *Longest subarray whose sum <= k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Longest_subarray_k.cpp Longest_subarray_k.cpp] 
 
-*Largest rectangle under the skyline*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Largest_rectangle_under_skyline.cpp Largest_rectangle_under_skyline.cpp] 
+*Largest rectangle under the skyline*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Largest_rectangle_under_skyline.h Largest_rectangle_under_skyline.h] 
 
 *Maximum 2D subarray*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle.cpp Max_submatrix_rectangle.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_square.cpp Max_submatrix_square.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Max_submatrix_rectangle_improved.cpp Max_submatrix_rectangle_improved.cpp] 
 
