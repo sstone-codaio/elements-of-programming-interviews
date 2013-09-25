@@ -120,7 +120,7 @@ Custom library code used in multiple places in solutions:
 
 *Zipping a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Zipping_list_template.cpp Zipping_list_template.cpp] 
 
-*Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_skip_list_template.cpp Copying_skip_list_template.cpp] 
+*Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_postings_list.cpp Copying_postings_list.cpp] 
 
 *Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.h Stack_with_max_template.h] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
@@ -128,7 +128,7 @@ Custom library code used in multiple places in solutions:
 
 *Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order_template.cpp BST_sorted_order_template.cpp] 
 
-*Searching a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_recursive_template.cpp Search_skip_list_recursive_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_skip_list_iterative_template.cpp Search_skip_list_iterative_template.cpp] 
+*Searching a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_recursive.cpp Search_postings_list_recursive.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_iterative.cpp Search_postings_list_iterative.cpp] 
 
 *Towers of Hanoi*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/tower_hanoi.cpp tower_hanoi.cpp] 
 
@@ -287,6 +287,7 @@ Custom library code used in multiple places in solutions:
 *Union of intervals*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Union_intervals.cpp Union_intervals.cpp] 
 
 *Points covering intervals*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals.cpp Points_covering_intervals.cpp] 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals_alternative.cpp Points_covering_intervals_alternative.cpp] 
 
 *The 3-sum problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/3-sum.cpp 3-sum.cpp] 
 
