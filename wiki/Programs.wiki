@@ -436,6 +436,8 @@ Custom library code used in multiple places in solutions:
 
 *Uniform random number generation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Uniform_random_number_generation.cpp Uniform_random_number_generation.cpp] 
 
+*Nonuniform random number generation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/nonuniform_random_number_generation.cpp nonuniform_random_number_generation.cpp] 
+
 *Reservoir sampling*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reservoir_sampling.cpp Reservoir_sampling.cpp] 
 
 *Online sampling*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_sampling.cpp Online_sampling.cpp] 
