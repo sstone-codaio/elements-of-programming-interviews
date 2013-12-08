@@ -191,7 +191,8 @@ Custom library code used in multiple places in solutions:
 *Merging sorted files*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_arrays.h Merge_sorted_arrays.h] 
 
 *Sort k-increasing-decreasing array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/sort_k-increasing-decreasing_array.cpp sort_k-increasing-decreasing_array.cpp]
- 
+
+
 *Stacks and queues from heap*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_queue_using_heap_template.cpp Stack_queue_using_heap_template.cpp] 
 
 *Closest stars*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_stars.cpp Closest_stars.cpp] 
