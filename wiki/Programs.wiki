@@ -251,6 +251,8 @@ Custom library code used in multiple places in solutions:
 
 *Design a hash function for dictionaries*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hash_dictionary.cpp Hash_dictionary.cpp] 
 
+*Nearest repetition* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Nearest_repetition.cpp Nearest_repetition.cpp]
+
 *Binary tree compression*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BinaryTreeCanonical.java BinaryTreeCanonical.java] 
 
 *Anagrams*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anagrams.cpp Anagrams.cpp] 
