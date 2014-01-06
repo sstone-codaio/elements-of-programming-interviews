@@ -98,35 +98,35 @@ Custom library code used in multiple places in solutions:
 
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h] 
 
-*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists_template.h Merge_sorted_lists_template.h] 
+*Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists.h Merge_sorted_lists.h] 
 
 *Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle.h Checking_cycle.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
 
-*Median of a sorted circular linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list_template.cpp Median_sorted_circular_linked_list_template.cpp] 
+*Median of a sorted circular linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list.cpp Median_sorted_circular_linked_list.cpp] 
 
 *Overlapping lists - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_no_cycle.h Overlapping_lists_no_cycle.h] 
 
-*Overlapping lists - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists_template.cpp Overlapping_lists_template.cpp] 
+*Overlapping lists - 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Overlapping_lists.cpp Overlapping_lists.cpp] 
 
-*Even-odd merge*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list_template.cpp Even_odd_merge_linked_list_template.cpp] 
+*Even-odd merge*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list.cpp Even_odd_merge_linked_list.cpp] 
 
-*Deletion from a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Deletion_list_template.cpp Deletion_list_template.cpp] 
+*Deletion from a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Deletion_list.cpp Deletion_list.cpp] 
 
-*Remove the k-th last element from a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Remove_kth_last_list_template.cpp Remove_kth_last_list_template.cpp] 
+*Remove the k-th last element from a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Remove_kth_last_list.cpp Remove_kth_last_list.cpp] 
 
-*Reversing a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_recursive_template.cpp Reverse_linked_list_recursive_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_iterative_template.h Reverse_linked_list_iterative_template.h] 
+*Reversing a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_recursive.cpp Reverse_linked_list_recursive.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_linked_list_iterative.h Reverse_linked_list_iterative.h] 
 
-*Palindromicity in linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Palindrome_linked_list_template.cpp Palindrome_linked_list_template.cpp] 
+*Palindromicity in linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Palindrome_linked_list.cpp Palindrome_linked_list.cpp] 
 
-*Zipping a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Zipping_list_template.cpp Zipping_list_template.cpp] 
+*Zipping a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Zipping_list.cpp Zipping_list.cpp] 
 
 *Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_postings_list.cpp Copying_postings_list.cpp] 
 
-*Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_template.h Stack_with_max_template.h] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
+*Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max.h Stack_with_max.h] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
 *Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
 
-*Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order_template.cpp BST_sorted_order_template.cpp] 
+*Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order.cpp BST_sorted_order.cpp] 
 
 *Searching a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_recursive.cpp Search_postings_list_recursive.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_iterative.cpp Search_postings_list_iterative.cpp] 
 
@@ -138,13 +138,13 @@ Custom library code used in multiple places in solutions:
 
 *Normalized path names* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/normalized_pathnames.cpp normalized_pathnames.cpp]
 
-*Printing a binary tree in level order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order_template.cpp Binary_tree_level_order_template.cpp] 
+*Printing a binary tree in level order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order.cpp Binary_tree_level_order.cpp] 
 
-*Implement a circular queue*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Circular_queue_template.cpp Circular_queue_template.cpp] 
+*Implement a circular queue*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Circular_queue.cpp Circular_queue.cpp] 
 
 *Implement a queue using two unsigned integers*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_using_two_integers.cpp Queue_using_two_integers.cpp] 
 
-*Queue from two stacks*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_from_stacks_template.cpp Queue_from_stacks_template.cpp] 
+*Queue from two stacks*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_from_stacks.cpp Queue_from_stacks.cpp] 
 
 *Queue with max*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max.cpp Queue_with_max.cpp] 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_with_max_using_deque.h Queue_with_max_using_deque.h] 
@@ -153,37 +153,37 @@ Custom library code used in multiple places in solutions:
 
 *Binary tree prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h] 
 
-*Inorder traversal of a binary tree, no stack*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_no_stack_template.cpp Inorder_traversal_no_stack_template.cpp] 
+*Inorder traversal of a binary tree, no stack*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_no_stack.cpp Inorder_traversal_no_stack.cpp] 
 
-*Balanced binary trees*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Balanced_binary_tree_template.cpp Balanced_binary_tree_template.cpp] 
+*Balanced binary trees*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Balanced_binary_tree.cpp Balanced_binary_tree.cpp] 
 
-*k-balanced nodes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree_template.cpp k-balanced_binary_tree_template.cpp] 
+*k-balanced nodes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree.cpp k-balanced_binary_tree.cpp] 
 
-*Symmetric binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Symmetric_binary_tree_template.cpp Symmetric_binary_tree_template.cpp] 
+*Symmetric binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Symmetric_binary_tree.cpp Symmetric_binary_tree.cpp] 
 
-*Locking in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_lock_template.cpp Binary_tree_lock_template.cpp] 
+*Locking in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_lock.cpp Binary_tree_lock.cpp] 
 
-*Inorder traversal with O(1) space*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent_template.cpp Inorder_traversal_with_parent_template.cpp] 
+*Inorder traversal with O(1) space*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent.cpp Inorder_traversal_with_parent.cpp] 
 
 *Successor in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Successor.cpp Successor.cpp] 
 
-*Determining the k-th node in an inorder traversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_node_binary_tree_template.cpp k-th_node_binary_tree_template.cpp] 
+*Determining the k-th node in an inorder traversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_node_binary_tree.cpp k-th_node_binary_tree.cpp] 
 
-*Reconstructing a binary tree from traversal data*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_pre_in_orders_template.cpp Reconstruct_binary_tree_pre_in_orders_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_post_in_orders_template.cpp Reconstruct_binary_tree_post_in_orders_template.cpp] 
+*Reconstructing a binary tree from traversal data*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_pre_in_orders.cpp Reconstruct_binary_tree_pre_in_orders.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_binary_tree_post_in_orders.cpp Reconstruct_binary_tree_post_in_orders.cpp] 
 
-*Reconstructing a binary tree from a preorder traversal with marker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_preorder_with_null_template.cpp Reconstruct_preorder_with_null_template.cpp] 
+*Reconstructing a binary tree from a preorder traversal with marker*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reconstruct_preorder_with_null.cpp Reconstruct_preorder_with_null.cpp] 
 
-*Convert a binary tree to a circular doubly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_to_doubly_linked_list_template.cpp Binary_tree_to_doubly_linked_list_template.cpp] 
+*Convert a binary tree to a circular doubly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_to_doubly_linked_list.cpp Binary_tree_to_doubly_linked_list.cpp] 
 
-*Form a linked list from the leaves of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Connect_leaves_binary_tree_template.cpp Connect_leaves_binary_tree_template.cpp] 
+*Form a linked list from the leaves of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Connect_leaves_binary_tree.cpp Connect_leaves_binary_tree.cpp] 
 
-*The exterior of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Exterior_binary_tree_template.cpp Exterior_binary_tree_template.cpp] 
+*The exterior of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Exterior_binary_tree.cpp Exterior_binary_tree.cpp] 
 
-*Lowest common ancestor in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_no_parent_template.cpp Lowest_common_ancestor_no_parent_template.cpp] 
+*Lowest common ancestor in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_no_parent.cpp Lowest_common_ancestor_no_parent.cpp] 
 
-*Lowest common ancestor in a binary tree, with parent pointer*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_template.cpp Lowest_common_ancestor_template.cpp] 
+*Lowest common ancestor in a binary tree, with parent pointer*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor.cpp Lowest_common_ancestor.cpp] 
 
-*Lowest common ancestor in a binary tree, close ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_hash_template.cpp Lowest_common_ancestor_hash_template.cpp] 
+*Lowest common ancestor in a binary tree, close ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Lowest_common_ancestor_hash.cpp Lowest_common_ancestor_hash.cpp] 
 
 
 *Shortest unique prefix*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Shortest_unique_prefix.cpp Shortest_unique_prefix.cpp] 
@@ -193,7 +193,7 @@ Custom library code used in multiple places in solutions:
 *Sort k-increasing-decreasing array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/sort_k-increasing-decreasing_array.cpp sort_k-increasing-decreasing_array.cpp]
 
 
-*Stacks and queues from heap*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_queue_using_heap_template.cpp Stack_queue_using_heap_template.cpp] 
+*Stacks and queues from heap*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_queue_using_heap.cpp Stack_queue_using_heap.cpp] 
 
 *Closest stars*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_stars.cpp Closest_stars.cpp] 
 
@@ -213,21 +213,21 @@ Custom library code used in multiple places in solutions:
 
 *Overflow binary search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
 
-*Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k_template.cpp Binary_search_first_k_template.cpp] 
+*Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k.cpp Binary_search_first_k.cpp] 
 
-*Search a sorted array for the first element larger than k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k_template.cpp Binary_search_larger_k_template.cpp] 
+*Search a sorted array for the first element larger than k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k.cpp Binary_search_larger_k.cpp] 
 
 *Search a sorted array for A`[`i`]`=i*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_Ai=i.cpp Binary_search_Ai=i.cpp] 
 
-*Search for a pair in an abs-sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_a_pair_sorted_array_template.cpp Search_a_pair_sorted_array_template.cpp] 
+*Search for a pair in an abs-sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_a_pair_sorted_array.cpp Search_a_pair_sorted_array.cpp] 
 
-*Search a cyclically sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_template.cpp Binary_search_circular_array_template.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_with_duplicates_template.cpp Binary_search_circular_array_with_duplicates_template.cpp] 
+*Search a cyclically sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array.cpp Binary_search_circular_array.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_with_duplicates.cpp Binary_search_circular_array_with_duplicates.cpp] 
 
-*Search a sorted array of unknown length*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_unknown_length_template.cpp Binary_search_unknown_length_template.cpp] 
+*Search a sorted array of unknown length*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_unknown_length.cpp Binary_search_unknown_length.cpp] 
 
 *Completion search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Completion_search.cpp Completion_search.cpp] 
 
-*Searching in two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_kth_element_in_two_sorted_arrays_template.cpp Find_kth_element_in_two_sorted_arrays_template.cpp] 
+*Searching in two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_kth_element_in_two_sorted_arrays.cpp Find_kth_element_in_two_sorted_arrays.cpp] 
 
 *Computing square roots*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Square_root.cpp Square_root.cpp] 
 
@@ -235,7 +235,7 @@ Custom library code used in multiple places in solutions:
 
 *Finding the min and max simultaneously*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Finding_min_max.cpp Finding_min_max.cpp] 
 
-*The k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_template.cpp k-th_largest_element_template.cpp] 
+*The k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element.cpp k-th_largest_element.cpp] 
 
 *The k-th largest element - large n and small k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
 
