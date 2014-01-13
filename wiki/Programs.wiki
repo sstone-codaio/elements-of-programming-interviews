@@ -16,13 +16,20 @@ Custom library code used in multiple places in solutions:
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/execute-shell.h execute-shell.h]
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype_shared_ptr.h BST_prototype_shared_ptr.h]
 
-*Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
+*Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Rearrange.java Rearrange.java]
 
 *Computing parity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity1.h Parity1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity2.h Parity2.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity3.h Parity3.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Parity4.h Parity4.h] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity.java Parity.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity1.java Parity1.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity2.java Parity2.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity3.java Parity3.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity4.java Parity4.java]
 
-*Swap bits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.h swap_bits.h] 
+
+*Swap bits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/swap_bits.h swap_bits.h] [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SwapBits.java SwapBits.java]
 
 *Bit reversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_bits.cpp Reverse_bits.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseBits.java ReverseBits.java]
 
 *Closest integers with the same weight*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_int_same_bits.cpp Closest_int_same_bits.cpp] 
 
