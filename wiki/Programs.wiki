@@ -512,7 +512,7 @@ Custom library code used in multiple places in solutions:
 
 *Stable assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
 
-<!--
+<wiki:comment>
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryOperator.java BinaryOperator.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchTree.java BinarySearchTree.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreePrototypeTemplate.java BinaryTreePrototypeTemplate.java]
@@ -675,6 +675,4 @@ Custom library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZeroOneKnapsack.java ZeroOneKnapsack.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZeroSumSubset.java ZeroSumSubset.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZippingListTemplate.java ZippingListTemplate.java]
--->
-
-
+</wiki:comment>
