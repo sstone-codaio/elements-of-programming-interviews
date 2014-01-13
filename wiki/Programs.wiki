@@ -39,7 +39,7 @@ Custom library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PowerSetAlternative.java PowerSetAlternative.java]
 
 *String and integer conversions*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Interconverting_string_integer.cpp Interconverting_string_integer.cpp] 
-[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InterconvertingStringInteger.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InterconvertingStringInteger.java InterconvertingStringInteger.java]
 
 *Base conversion*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Convert_base.cpp Convert_base.cpp] 
 
