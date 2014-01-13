@@ -11,10 +11,9 @@ Custom library code used in multiple places in solutions:
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_parent_prototype.h BST_parent_prototype.h], [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h], [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_utils.h Binary_tree_utils.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_with_parent_prototype.h Binary_tree_with_parent_prototype.h], 
-[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h], 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype.h Linked_list_prototype.h], 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Postings_list_prototype.h Postings_list_prototype.h]
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/execute-shell.h execute-shell.h]
-[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Doubly_linked_list_prototype_template.h Doubly_linked_list_prototype_template.h]
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype_shared_ptr.h BST_prototype_shared_ptr.h]
 
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] 
@@ -96,7 +95,7 @@ Custom library code used in multiple places in solutions:
 
 *Regular expression matching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Regular_expression.cpp Regular_expression.cpp] 
 
-*Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype_template.h Linked_list_prototype_template.h] 
+*Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype.h Linked_list_prototype.h] 
 
 *Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists.h Merge_sorted_lists.h] 
 
