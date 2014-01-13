@@ -31,12 +31,15 @@ Custom library code used in multiple places in solutions:
 *Bit reversal*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Reverse_bits.cpp Reverse_bits.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseBits.java ReverseBits.java]
 
-*Closest integers with the same weight*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_int_same_bits.cpp Closest_int_same_bits.cpp] 
+*Closest integers with the same weight*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_int_same_bits.cpp Closest_int_same_bits.cpp] [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestIntSameBits.java ClosestIntSameBits.java]
 
 *The power set*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Power_set.cpp Power_set.cpp] 
-[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Power_set_alternative.cpp Power_set_alternative.cpp] 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Power_set_alternative.cpp Power_set_alternative.cpp]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PowerSet.java PowerSet.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PowerSetAlternative.java PowerSetAlternative.java]
 
 *String and integer conversions*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Interconverting_string_integer.cpp Interconverting_string_integer.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InterconvertingStringInteger.java]
 
 *Base conversion*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Convert_base.cpp Convert_base.cpp] 
 
