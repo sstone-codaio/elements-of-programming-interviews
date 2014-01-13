@@ -1,3 +1,168 @@
+<!--
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryOperator.java BinaryOperator.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchTree.java BinarySearchTree.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreePrototypeTemplate.java BinaryTreePrototypeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreeUtils.java BinaryTreeUtils.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreeWithParentPrototype.java BinaryTreeWithParentPrototype.java]
+
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Doors.java Doors.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/DutchNationalFlag.java DutchNationalFlag.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/EliasCoding.java EliasCoding.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/EquivClasses.java EquivClasses.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/EvenOddMergeLinkedListTemplate.java EvenOddMergeLinkedListTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ExteriorBinaryTreeTemplate.java ExteriorBinaryTreeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GCD.java GCD.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GassingUp.java GassingUp.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GaussianElimination.java GaussianElimination.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HashDictionary.java HashDictionary.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HeightDetermination.java HeightDetermination.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HouseMajority.java HouseMajority.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HuffmanEncoding.java HuffmanEncoding.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ImageCompression.java ImageCompression.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InorderTraversalNoStackTemplate.java InorderTraversalNoStackTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InorderTraversalWithParentTemplate.java InorderTraversalWithParentTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InterconvertingStringInteger.java InterconvertingStringInteger.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/IntersectRectangle.java IntersectRectangle.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/JobAssignment.java JobAssignment.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/KThNodeBinaryTreeTemplate.java KThNodeBinaryTreeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LRUCache.java* LRUCache.java*]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LargestRectangleUnderSkyline.java LargestRectangleUnderSkyline.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LazyInit.java LazyInit.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LevenshteinDistance.java LevenshteinDistance.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LineMostPoints.java LineMostPoints.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LinkedListPrototypeTemplate.java LinkedListPrototypeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Linked_list.java Linked_list.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LoadBalancing.java LoadBalancing.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LongestIncreasingSubarray.java LongestIncreasingSubarray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LongestNondecreasingSubsequenceN2.java LongestNondecreasingSubsequenceN2.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LongestNondecreasingSubsequenceNlogn.java LongestNondecreasingSubsequenceNlogn.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LongestSubarrayK.java LongestSubarrayK.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LowestCommonAncestorHashTemplate.java LowestCommonAncestorHashTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LowestCommonAncestorNoParentTemplate.java LowestCommonAncestorNoParentTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LowestCommonAncestorTemplate.java LowestCommonAncestorTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MatrixRotation.java MatrixRotation.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MatrixRotationConstant.java MatrixRotationConstant.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MatrixRotationNaive.java MatrixRotationNaive.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxDifferenceKPairs.java MaxDifferenceKPairs.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxDifferenceUnlimitedPairs.java MaxDifferenceUnlimitedPairs.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxSubmatrixRectangle.java MaxSubmatrixRectangle.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxSubmatrixRectangleBruteForce.java MaxSubmatrixRectangleBruteForce.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxSubmatrixRectangleImproved.java MaxSubmatrixRectangleImproved.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxSubmatrixSquare.java MaxSubmatrixSquare.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaxSumSubarray.java MaxSumSubarray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaximumSubarrayInCircularArray.java MaximumSubarrayInCircularArray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MaximumSubarrayInCircularArrayConstantSpace.java MaximumSubarrayInCircularArrayConstantSpace.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MedianSortedCircularLinkedListTemplate.java MedianSortedCircularLinkedListTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MergeSortedListsTemplate.java MergeSortedListsTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MinimumSubarrayDifference.java MinimumSubarrayDifference.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MinimumWaitingTime.java MinimumWaitingTime.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MultibetCardColorGame.java MultibetCardColorGame.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MultiplyShiftAdd.java MultiplyShiftAdd.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NearestRepetition.java NearestRepetition.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NextPermutation.java NextPermutation.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NodeT.java NodeT.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NonUniformRandomNumberGeneration.java NonUniformRandomNumberGeneration.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NormalizedPathnames.java NormalizedPathnames.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NumberWays.java NumberWays.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NumberWaysObstacles.java NumberWaysObstacles.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ObjectWrapper.java ObjectWrapper.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OfflineMinimum.java OfflineMinimum.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OfflineSampling.java OfflineSampling.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OnlineSampling.java OnlineSampling.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OverlappingListsNoCycle.java OverlappingListsNoCycle.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OverlappingListsTemplate.java OverlappingListsTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PaintingIterative.java PaintingIterative.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PaintingRecursive.java PaintingRecursive.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Pair.java Pair.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PalindromeLinkedListTemplate.java PalindromeLinkedListTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity.java Parity.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity1.java Parity1.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity2.java Parity2.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity3.java Parity3.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Parity4.java Parity4.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PermutationArray.java PermutationArray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PermutationArray1.java PermutationArray1.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PermutationArray2.java PermutationArray2.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PhoneMnemonic.java PhoneMnemonic.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PickingUpCoins.java PickingUpCoins.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PickingUpCoinsDontLose.java PickingUpCoinsDontLose.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PlanningFishing.java PlanningFishing.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PostingsListPrototype.java PostingsListPrototype.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PowerSet.java PowerSet.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PowerSetAlternative.java PowerSetAlternative.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PrettyPrinting.java PrettyPrinting.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PrimeSieve.java PrimeSieve.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/QueueFromStacksTemplate.java QueueFromStacksTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/QueueUsingTwoIntegers.java QueueUsingTwoIntegers.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/QueueWithMax.java QueueWithMax.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/QueueWithMaxUsingDeque.java QueueWithMaxUsingDeque.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RNP.java RNP.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Rearrange.java Rearrange.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReconstructBinaryTreePostInOrdersTemplate.java ReconstructBinaryTreePostInOrdersTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReconstructBinaryTreePreInOrdersTemplate.java ReconstructBinaryTreePreInOrdersTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReconstructPreorderWithNullTemplate.java ReconstructPreorderWithNullTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RegularExpression.java RegularExpression.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RemoveKthLastListTemplate.java RemoveKthLastListTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReplaceAndRemove.java ReplaceAndRemove.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReservoirSampling.java ReservoirSampling.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseBits.java ReverseBits.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseLinkedListIterativeTemplate.java ReverseLinkedListIterativeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseLinkedListRecursiveTemplate.java ReverseLinkedListRecursiveTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ReverseWords.java ReverseWords.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RoadNetwork.java RoadNetwork.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RobotBattery.java RobotBattery.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RotateArray.java RotateArray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RotateArrayPermutation.java RotateArrayPermutation.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RotateArrayTest.java RotateArrayTest.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RunLengthCompression.java RunLengthCompression.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ScoreCombination.java ScoreCombination.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ScorePermutation.java ScorePermutation.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchMaze.java SearchMaze.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchPostingsListIterative.java SearchPostingsListIterative.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchPostingsListRecursive.java SearchPostingsListRecursive.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Search_frequent_items.java Search_frequent_items.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ShortestPathFewestEdges.java ShortestPathFewestEdges.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ShortestUniquePrefix.java ShortestUniquePrefix.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SlidingWindow.java SlidingWindow.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SmallestSubarrayCoveringSet.java SmallestSubarrayCoveringSet.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SmallestSubarrayCoveringSetStream.java SmallestSubarrayCoveringSetStream.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SpiralMatrix.java SpiralMatrix.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SpiralMatrixClockwise.java SpiralMatrixClockwise.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SpreadsheetEncoding.java SpreadsheetEncoding.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StableAssignment.java StableAssignment.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StackSorting.java StackSorting.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StackWithMaxImproved.java StackWithMaxImproved.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StackWithMaxTemplate.java StackWithMaxTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StringInMatrix.java StringInMatrix.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SubseqCover.java SubseqCover.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Successor.java Successor.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SudokuCheck.java SudokuCheck.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SudokuSolve.java SudokuSolve.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SwapBits.java SwapBits.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SymmetricBinaryTreeTemplate.java SymmetricBinaryTreeTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Tail.java Tail.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TailCoin.java TailCoin.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TeamPhoto2.java TeamPhoto2.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TheoryOfEquality.java TheoryOfEquality.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ThreeJugs.java ThreeJugs.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TiesElection.java TiesElection.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TournamentTree.java TournamentTree.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TowerHanoi.java TowerHanoi.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TransformStringToOther.java TransformStringToOther.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TransitiveClosure.java TransitiveClosure.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TreeDiameter.java TreeDiameter.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TwoExists.java TwoExists.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/TwoForAll.java TwoForAll.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/UniformRandomNumberGeneration.java UniformRandomNumberGeneration.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Utils.java Utils.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ViewSunset.java ViewSunset.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/WiringCircuitBoard.java WiringCircuitBoard.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/WordBreaking.java WordBreaking.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZeroOneKnapsack.java ZeroOneKnapsack.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZeroSumSubset.java ZeroSumSubset.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ZippingListTemplate.java ZippingListTemplate.java]
+-->
+
 #summary Index of Programs
 #labels Featured,Phase-Implementation
 
@@ -42,6 +207,7 @@ Custom library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InterconvertingStringInteger.java InterconvertingStringInteger.java]
 
 *Base conversion*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Convert_base.cpp Convert_base.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ConvertBase.java ConvertBase.java]
 
 *Spreadsheet column encoding*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Spreadsheet_encoding.cpp Spreadsheet_encoding.cpp] 
 
@@ -56,6 +222,7 @@ Custom library code used in multiple places in solutions:
 *Computing x `*` y without multiply or add*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/MultiplyShiftAdd.cpp MultiplyShiftAdd.cpp] 
 
 *Computing x/y*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Division.cpp Division.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Division.java Division.java]
 
 *Dutch national flag*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Dutch_national_flag.cpp Dutch_national_flag.cpp] 
 
@@ -75,6 +242,7 @@ Custom library code used in multiple places in solutions:
 
 
 *BigInteger multiplication*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bignumber_multiplication.cpp Bignumber_multiplication.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BigNumberMultiplication.java BigNumberMultiplication.java]
 
 *Permuting the elements of an array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array1.h Permutation_array1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Permutation_array2.h Permutation_array2.h] 
 
@@ -110,6 +278,8 @@ Custom library code used in multiple places in solutions:
 *Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists.h Merge_sorted_lists.h] 
 
 *Checking for cyclicity*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle.h Checking_cycle.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Checking_cycle_alternative.cpp Checking_cycle_alternative.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CheckingCycle.java CheckingCycle.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CheckingCycleAlternative.java CheckingCycleAlternative.java]
 
 *Median of a sorted circular linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Median_sorted_circular_linked_list.cpp Median_sorted_circular_linked_list.cpp] 
 
@@ -120,6 +290,7 @@ Custom library code used in multiple places in solutions:
 *Even-odd merge*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Even_odd_merge_linked_list.cpp Even_odd_merge_linked_list.cpp] 
 
 *Deletion from a singly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Deletion_list.cpp Deletion_list.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/DeletionListTemplate.java DeletionListTemplate.java]
 
 *Remove the k-th last element from a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Remove_kth_last_list.cpp Remove_kth_last_list.cpp] 
 
@@ -130,12 +301,14 @@ Custom library code used in multiple places in solutions:
 *Zipping a list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Zipping_list.cpp Zipping_list.cpp] 
 
 *Copying a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Copying_postings_list.cpp Copying_postings_list.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CopyingPostingsList.java CopyingPostingsList.java]
 
 *Stack with max operation* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max.h Stack_with_max.h] [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_with_max_improved.cpp Stack_with_max_improved.cpp] 
 
 *Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
 
 *Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order.cpp BST_sorted_order.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BSTSortedOrderTemplate.java BSTSortedOrderTemplate.java]
 
 *Searching a postings list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_recursive.cpp Search_postings_list_recursive.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_postings_list_iterative.cpp Search_postings_list_iterative.cpp] 
 
@@ -148,8 +321,10 @@ Custom library code used in multiple places in solutions:
 *Normalized path names* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/normalized_pathnames.cpp normalized_pathnames.cpp]
 
 *Printing a binary tree in level order*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_level_order.cpp Binary_tree_level_order.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreeLevelOrderTemplate.java BinaryTreeLevelOrderTemplate.java]
 
 *Implement a circular queue*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Circular_queue.cpp Circular_queue.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CircularQueueTemplate.java CircularQueueTemplate.java]
 
 *Implement a queue using two unsigned integers*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Queue_using_two_integers.cpp Queue_using_two_integers.cpp] 
 
@@ -165,12 +340,15 @@ Custom library code used in multiple places in solutions:
 *Inorder traversal of a binary tree, no stack*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_no_stack.cpp Inorder_traversal_no_stack.cpp] 
 
 *Balanced binary trees*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Balanced_binary_tree.cpp Balanced_binary_tree.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BalancedBinaryTreeTemplate.java BalancedBinaryTreeTemplate.java]
 
 *k-balanced nodes*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-balanced_binary_tree.cpp k-balanced_binary_tree.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/KBalancedBinaryTreeTemplate.java KBalancedBinaryTreeTemplate.java]
 
 *Symmetric binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Symmetric_binary_tree.cpp Symmetric_binary_tree.cpp] 
 
 *Locking in a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_lock.cpp Binary_tree_lock.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinaryTreeLockTemplate.java BinaryTreeLockTemplate.java]
 
 *Inorder traversal with O(1) space*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_with_parent.cpp Inorder_traversal_with_parent.cpp] 
 
@@ -185,6 +363,7 @@ Custom library code used in multiple places in solutions:
 *Convert a binary tree to a circular doubly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_to_doubly_linked_list.cpp Binary_tree_to_doubly_linked_list.cpp] 
 
 *Form a linked list from the leaves of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Connect_leaves_binary_tree.cpp Connect_leaves_binary_tree.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ConnectLeavesBinaryTreeTemplate.java ConnectLeavesBinaryTreeTemplate.java]
 
 *The exterior of a binary tree*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Exterior_binary_tree.cpp Exterior_binary_tree.cpp] 
 
@@ -265,10 +444,15 @@ Custom library code used in multiple places in solutions:
 *Binary tree compression*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BinaryTreeCanonical.java BinaryTreeCanonical.java] 
 
 *Anagrams*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anagrams.cpp Anagrams.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Anagrams.java Anagrams.java]
 
 *Can a string be permuted to form a palindrome?*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_hash.h Can_string_be_palindrome_hash.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Can_string_be_palindrome_sorting.h Can_string_be_palindrome_sorting.h] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CanStringBePalindromeHash.java CanStringBePalindromeHash.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CanStringBePalindromeSorting.java CanStringBePalindromeSorting.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CanStringBePalindrome.java CanStringBePalindrome.java]
 
 *Anonymous letter*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Anonymous_letter.cpp Anonymous_letter.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/AnonymousLetter.java AnonymousLetter.java]
 
 *Line through the most points*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Line_most_points.cpp Line_most_points.cpp] 
 
@@ -349,6 +533,7 @@ Custom library code used in multiple places in solutions:
 *Counting inversions*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_inversions.cpp Count_inversions.cpp] 
 
 *Nearest points in the plane*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_pair_points.cpp Closest_pair_points.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestPairPoints.java ClosestPairPoints.java]
 
 *Tree diameter*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Tree_diameter.cpp Tree_diameter.cpp]  
 
@@ -375,6 +560,7 @@ Custom library code used in multiple places in solutions:
 *Pretty printing*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Pretty_printing.cpp Pretty_printing.cpp] 
 
 *Computing the binomial coefficients*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_binomial_coefficients.cpp Computing_binomial_coefficients.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ComputingBinomialCoefficients.java ComputingBinomialCoefficients.java]
 
 *Score combinations*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_combination.cpp Score_combination.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Score_permutation.cpp Score_permutation.cpp] 
 
@@ -417,6 +603,7 @@ Custom library code used in multiple places in solutions:
 *Road network*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Road_network.cpp Road_network.cpp] 
 
 *Arbitrage*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Arbitrage.cpp Arbitrage.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Arbitrage.java Arbitrage.java]
 
 *Ties in a presidential election*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Ties_election.cpp Ties_election.cpp] 
 
@@ -429,10 +616,13 @@ Custom library code used in multiple places in solutions:
 *Sudoku solver*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sudoku_solve.cpp Sudoku_solve.cpp] 
 
 *Expression synthesis*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Add_operators_in_string.cpp Add_operators_in_string.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/AddOperatorsinString.java AddOperatorsinString.java]
 
 *Computing the n-th power of x*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Computing_x^n.cpp Computing_x^n.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ComputingXPowN.java ComputingXPowN.java]
 
 *Checking the Collatz conjecture*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Collatz_conjecture.cpp Collatz_conjecture.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CollatzConjecture.java CollatzConjecture.java]
 
 *Service with caching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S1.java S1.java]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/S2.java S2.java] 
 
@@ -471,14 +661,18 @@ Custom library code used in multiple places in solutions:
 *The gasup problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gassing_up.cpp Gassing_up.cpp] 
 
 *Closest palindrome*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_palindrome.cpp Closest_palindrome.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestPalindrome.java ClosestPalindrome.java]
 
 *The maximum product of (n - 1) numbers*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1.cpp Biggest_product_n-1.cpp]  
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Biggest_product_n-1_math.cpp Biggest_product_n-1_math.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BiggestProductNMinus1.java BiggestProductNMinus1.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BiggestProductNMinus1Math.java BiggestProductNMinus1Math.java]
 
 *Height determination*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Height_determination.cpp Height_determination.cpp] 
 
 *Symmetric-Whack-a-Mole* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_elimination.cpp Gaussian_elimination.cpp]
 
 *Celebrity identification*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CelebrityFinding.java CelebrityFinding.java]
 
 *Stable assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
