@@ -1,4 +1,6 @@
 <wiki:comment>
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LargeArray.java LargeArray.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Pair.java Pair.java]
 </wiki:comment>
 
 #summary Index of Programs
@@ -308,65 +310,99 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ShortestUniquePrefix.java ShortestUniquePrefix.java]
 
 *Merging sorted files*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_arrays.h Merge_sorted_arrays.h] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MergeSortedArrays.java MergeSortedArrays.java]
 
 *Sort k-increasing-decreasing array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/sort_k-increasing-decreasing_array.cpp sort_k-increasing-decreasing_array.cpp]
 
 
 *Stacks and queues from heap*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stack_queue_using_heap.cpp Stack_queue_using_heap.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StackQueueUsingHeapTemplate.java StackQueueUsingHeapTemplate.java]
 
 *Closest stars*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_stars.cpp Closest_stars.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestStars.java ClosestStars.java]
 
 *The k-th largest element - streaming case*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_element_streaming.cpp k-th_element_streaming.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/KthElementStreaming.java KthElementStreaming.java]
 
 *Approximate sort*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Approximate_sort.cpp Approximate_sort.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ApproximateSort.java ApproximateSort.java]
 
 *Closest to median*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_to_median.cpp Closest_to_median.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestToMedian.java ClosestToMedian.java]
 
 *Online median*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Online_median.cpp Online_median.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/OnlineMedian.java OnlineMedian.java]
 
 *Generating numbers of the form a + b \sqrt 2*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Generating_a_b_sqrt2.cpp Generating_a_b_sqrt2.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GeneratingABSqrt2.java GeneratingABSqrt2.java]
 
 *Compare with the k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Compare_k-th_largest_in_heap.cpp Compare_k-th_largest_in_heap.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CompareKthLargestInHeap.java CompareKthLargestInHeap.java]
 
 *Bentley's binary search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Bentleybsearch.cpp Bentleybsearch.cpp]  
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Bentleybsearch.java Bentleybsearch.java]
 
 *Overflow binary search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
 
 *Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k.cpp Binary_search_first_k.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchFirstKTemplate.java BinarySearchFirstKTemplate.java]
 
 *Search a sorted array for the first element larger than k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_larger_k.cpp Binary_search_larger_k.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchLargerKTemplate.java BinarySearchLargerKTemplate.java]
 
 *Search a sorted array for A`[`i`]`=i*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_Ai=i.cpp Binary_search_Ai=i.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchAiEqI.java BinarySearchAiEqI.java]
 
 *Search for a pair in an abs-sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_a_pair_sorted_array.cpp Search_a_pair_sorted_array.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchAPairSortedArrayTemplate.java SearchAPairSortedArrayTemplate.java]
 
-*Search a cyclically sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array.cpp Binary_search_circular_array.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_with_duplicates.cpp Binary_search_circular_array_with_duplicates.cpp] 
+*Search a cyclically sorted array*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array.cpp Binary_search_circular_array.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_circular_array_with_duplicates.cpp Binary_search_circular_array_with_duplicates.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchCircularArrayTemplate.java BinarySearchCircularArrayTemplate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchCircularArrayWithDuplicatesTemplate.java BinarySearchCircularArrayWithDuplicatesTemplate.java]
 
 *Search a sorted array of unknown length*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_unknown_length.cpp Binary_search_unknown_length.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchUnknownLengthTemplate.java BinarySearchUnknownLengthTemplate.java]
 
 *Completion search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Completion_search.cpp Completion_search.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CompletionSearch.java CompletionSearch.java]
 
 *Searching in two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_kth_element_in_two_sorted_arrays.cpp Find_kth_element_in_two_sorted_arrays.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindKthElementInTwoSortedArraysTemplate.java FindKthElementInTwoSortedArraysTemplate.java]
 
 *Computing square roots*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Square_root.cpp Square_root.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SquareRoot.java SquareRoot.java]
 
 *2D array search*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Matrix_search.cpp Matrix_search.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MatrixSearch.java MatrixSearch.java]
 
 *Finding the min and max simultaneously*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Finding_min_max.cpp Finding_min_max.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindingMinMax.java FindingMinMax.java]
 
 *The k-th largest element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element.cpp k-th_largest_element.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/KthLargestElementTemplate.java KthLargestElementTemplate.java]
 
 *The k-th largest element - large n and small k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/k-th_largest_element_large_n.cpp k-th_largest_element_large_n.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/KthLargestElementLargeN.java KthLargestElementLargeN.java]
 
 *Finding a missing element*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Missing_element.cpp Missing_element.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MissingElement.java MissingElement.java]
 
-*Find the duplicate and missing elements*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate.cpp Find_missing_and_duplicate.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate_XOR.cpp Find_missing_and_duplicate_XOR.cpp] 
+*Find the duplicate and missing elements*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate.cpp Find_missing_and_duplicate.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_missing_and_duplicate_XOR.cpp Find_missing_and_duplicate_XOR.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindMissingAndDuplicate.java FindMissingAndDuplicate.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindMissingAndDuplicateXOR.java FindMissingAndDuplicateXOR.java]
 
 *Find the element that appears only once*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_element_appears_once.cpp Find_element_appears_once.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindElementAppearsOnce.java FindElementAppearsOnce.java]
 
 *Searching an array with close entries*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Close_search.cpp Close_search.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CloseSearch.java CloseSearch.java]
 
 *Majority find*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_majority.cpp Search_majority.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchMajority.java SearchMajority.java]
 
 *Design a hash function for dictionaries*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Hash_dictionary.cpp Hash_dictionary.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HashDictionary.java HashDictionary.java]
