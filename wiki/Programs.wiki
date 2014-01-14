@@ -25,6 +25,7 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Pair.java Pair.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LinkedListPrototypeTemplate.java LinkedListPrototypeTemplate.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Linked_list.java Linked_list.java],
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/DoublyLinkedListPrototypeTemplate.java DoublyLinkedListPrototypeTemplate.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NodeT.java NodeT.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ObjectWrapper.java ObjectWrapper.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PostingsListPrototype.java PostingsListPrototype.java],
@@ -156,12 +157,15 @@ Custom Java library code used in multiple places in solutions:
 *Phone number mnemonic*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Phone_mnemonic.cpp Phone_mnemonic.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/PhoneMnemonic.java PhoneMnemonic.java]
 
-*DNA matching with wildcard characters* (removed after v-1.1.0) [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp] 
+*DNA matching with wildcard characters* (removed after v-1.1.0, substantial overlap with Regular expression matching problem) 
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/String_matching_wildcard.cpp String_matching_wildcard.cpp] 
 
 *Regular expression matching*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Regular_expression.cpp Regular_expression.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RegularExpression.java RegularExpression.java]
 
+<wiki:comment>
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype.h Linked_list_prototype.h] 
+<wiki:comment>
 
 *Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists.h Merge_sorted_lists.h] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MergeSortedListsTemplate.java MergeSortedListsTemplate.java]
@@ -206,7 +210,7 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/StackWithMaxImproved.java StackWithMaxImproved.java]
 
 *Expression evaluation*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/RPN.cpp RPN.cpp] 
-[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RNP.java RNP.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RPN.java RPN.java]
 
 *Printing the keys in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_sorted_order.cpp BST_sorted_order.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BSTSortedOrderTemplate.java BSTSortedOrderTemplate.java]
@@ -247,7 +251,9 @@ Custom Java library code used in multiple places in solutions:
 *Maximum of a sliding window*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sliding_window.cpp Sliding_window.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SlidingWindow.java SlidingWindow.java]
 
+<wiki:comment>
 *Binary tree prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_tree_prototype_template.h Binary_tree_prototype_template.h] 
+</wiki:comment>
 
 *Inorder traversal of a binary tree, no stack*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Inorder_traversal_no_stack.cpp Inorder_traversal_no_stack.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/InorderTraversalNoStackTemplate.java InorderTraversalNoStackTemplate.java]
@@ -420,51 +426,84 @@ Custom Java library code used in multiple places in solutions:
 
 *The 3-sum problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/3-sum.cpp 3-sum.cpp] 
 
+<wiki:comment>
 *Binary Search Tree prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h] 
+</wiki:comment>
 
-*Does a binary tree satisfy the BST property?*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST.cpp is_binary_tree_a_BST.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_const_space.cpp is_binary_tree_a_BST_const_space.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_BFS.cpp is_binary_tree_a_BST_BFS.cpp] 
+*Does a binary tree satisfy the BST property?*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST.cpp is_binary_tree_a_BST.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_const_space.cpp is_binary_tree_a_BST_const_space.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/is_binary_tree_a_BST_BFS.cpp is_binary_tree_a_BST_BFS.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/IsBinaryTreeABST.java IsBinaryTreeABST.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/IsBinaryTreeABSTConstSpace.java IsBinaryTreeABSTConstSpace.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/isBinaryTreeABST_BFS.java isBinaryTreeABST_BFS.java]
 
 *Successor in a BST* (removed after v-1.2.3) [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Successor_BST.cpp Successor_BST.cpp]
 
 *Updating a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Update_BST.cpp Update_BST.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/UpdateBST.java UpdateBST.java]
 
-*Search a BST for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_recursive.cpp Search_BST_for_first_occurrence_recursive.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_iterative.cpp Search_BST_for_first_occurrence_iterative.cpp] 
+*Search a BST for first occurrence of k*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_recursive.cpp Search_BST_for_first_occurrence_recursive.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_for_first_occurrence_iterative.cpp Search_BST_for_first_occurrence_iterative.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchBSTForFirstOccurrenceRecursive.java SearchBSTForFirstOccurrenceRecursive.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchBSTForFirstOccurrenceIterative.java SearchBSTForFirstOccurrenceIterative.java]
 
 *Search BST for the first key larger than k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_BST_first_larger_k.cpp Search_BST_first_larger_k.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchBSTFirstLargerK.java SearchBSTFirstLargerK.java]
 
 *Min-first BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Search_min_first_BST.cpp Search_min_first_BST.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SearchMinFirstBST.java SearchMinFirstBST.java]
 
 *Building a BST from a sorted array*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Build_BST_from_sorted_array.cpp Build_BST_from_sorted_array.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BuildBSTFromSortedArray.java BuildBSTFromSortedArray.java]
 
 *Build a BST from a sorted linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Sorted_list_to_BST.cpp Sorted_list_to_BST.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/SortedListToBST.java SortedListToBST.java]
 
 *Convert a BST to sorted doubly linked list*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_to_sorted_doubly_list.cpp BST_to_sorted_doubly_list.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BSTToSortedDoublyList.java BSTToSortedDoublyList.java]
 
 *Merge two BSTs*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_two_BSTs.cpp Merge_two_BSTs.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MergeTwoBSTs.java MergeTwoBSTs.java]
 
 *Find the k largest elements in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Find_k_largest_BST.cpp Find_k_largest_BST.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/FindKLargestBST.java FindKLargestBST.java]
 
-*Traversal orders in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp] 
+*Traversal orders in a BST*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder.cpp Rebuild_BST_preorder.cpp]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_postorder.cpp Rebuild_BST_postorder.cpp] 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rebuild_BST_preorder_better.cpp Rebuild_BST_preorder_better.cpp]  
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RebuildBSTPostorder.java RebuildBSTPostorder.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RebuildBSTPreorder.java RebuildBSTPreorder.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/RebuildBSTPreorderBetter.java RebuildBSTPreorderBetter.java]
 
 *Lowest common ancestor in a BST*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_lowest_common_ancestor.cpp BST_lowest_common_ancestor.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BSTLowestCommonAncestor.java BSTLowestCommonAncestor.java]
 
 *Gaussian primes* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_primes.cpp Gaussian_primes.cpp]
-[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GaussianElimination.java GaussianElimination.java]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GaussianPrimes.java GaussianPrimes.java]
 
 *Descendant and ancestor*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Descendant_and_ancestor.cpp Descendant_and_ancestor.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/DescendantAndAncestor.java DescendantAndAncestor.java]
 
 *Nearest restaurant*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Nearest_restaurant.cpp Nearest_restaurant.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/NearestRestaurant.java NearestRestaurant.java]
 
 *Minimize the distance in three sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Minimum_distance_3_sorted_arrays.cpp Minimum_distance_3_sorted_arrays.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/MinimumDistance3SortedArrays.java MinimumDistance3SortedArrays.java]
 
 *Adding credits*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/AddingCredits.cpp AddingCredits.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/AddingCredits.java AddingCredits.java]
 
 *View from above*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/View_from_above.cpp View_from_above.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ViewFromAbove.java ViewFromAbove.java]
 
 *Drawing the skyline*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Drawing_skylines.cpp Drawing_skylines.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/DrawingSkylines.java DrawingSkylines.java]
 
 *Counting inversions*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_inversions.cpp Count_inversions.cpp] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CountInversions.java CountInversions.java]
 
 *Nearest points in the plane*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Closest_pair_points.cpp Closest_pair_points.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/ClosestPairPoints.java ClosestPairPoints.java]
@@ -660,6 +699,7 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/HeightDetermination.java HeightDetermination.java]
 
 *Symmetric-Whack-a-Mole* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Gaussian_elimination.cpp Gaussian_elimination.cpp]
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/GaussianElimination.java GaussianElimination.java]
 
 *Celebrity identification*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Celebrity_finding.cpp Celebrity_finding.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/CelebrityFinding.java CelebrityFinding.java]
