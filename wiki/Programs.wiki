@@ -1,5 +1,4 @@
 <wiki:comment>
-[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LargeArray.java LargeArray.java]
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Pair.java Pair.java]
 </wiki:comment>
 
@@ -343,6 +342,7 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/Bentleybsearch.java Bentleybsearch.java]
 
 *Overflow binary search* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/largearray.c largearray.c] 
+[https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LargeArray.java LargeArray.java]
 
 *Search a sorted array for first occurrence of k*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Binary_search_first_k.cpp Binary_search_first_k.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/BinarySearchFirstKTemplate.java BinarySearchFirstKTemplate.java]
@@ -440,27 +440,46 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/src/com/epi/LRUCache.java* LRUCache.java*]
 
 *Variable length sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/indirect_sort.cpp indirect_sort.cpp]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Indirect_sort.java Indirect_sort.java]
 
 *Counting sort* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Counting_sort.cpp Counting_sort.cpp]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Counting_sort.java Counting_sort.java]
 
-*Intersect two sorted arrays*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.h Intersect_sorted_arrays1.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.h Intersect_sorted_arrays2.h]  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.h Intersect_sorted_arrays3.h] 
+*Intersect two sorted arrays*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays1.h Intersect_sorted_arrays1.h]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays2.h Intersect_sorted_arrays2.h]  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Intersect_sorted_arrays3.h Intersect_sorted_arrays3.h] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Intersect_sorted_arrays.java Intersect_sorted_arrays.java]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Intersect_sorted_arrays1.java Intersect_sorted_arrays1.java]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Intersect_sorted_arrays2.java Intersect_sorted_arrays2.java]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Intersect_sorted_arrays3.java Intersect_sorted_arrays3.java]
 
 *Team photo day - 1*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Team_photo_1.cpp Team_photo_1.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Team_photo_1.java Team_photo_1.java]
 
 *Count the occurrences of characters in a sentence*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Count_occurrences_in_sentence.cpp Count_occurrences_in_sentence.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Count_occurrences_in_sentence.java Count_occurrences_in_sentence.java]
 
 *Unique elements*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Eliminate_duplicate.cpp Eliminate_duplicate.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Eliminate_duplicate.java Eliminate_duplicate.java]
 
 *Task assignment*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Task_assignment.cpp Task_assignment.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Task_assignment.java Task_assignment.java]
 
 *Rendering a calendar*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rendering_calendar.cpp Rendering_calendar.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Rendering_calendar.java Rendering_calendar.java]
 
 *Union of intervals*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Union_intervals.cpp Union_intervals.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Union_intervals.java Union_intervals.java]
 
-*Points covering intervals*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals.cpp Points_covering_intervals.cpp] 
+*Points covering intervals*  
+[https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals.cpp Points_covering_intervals.cpp] 
 [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Points_covering_intervals_alternative.cpp Points_covering_intervals_alternative.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Points_covering_intervals.java Points_covering_intervals.java]
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/Points_covering_intervals_alternative.java Points_covering_intervals_alternative.java]
 
 *The 3-sum problem*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/3-sum.cpp 3-sum.cpp] 
+[https://github.com/adnanaziz/EpiCode/tree/master/src/com/three_sum.java three_sum.java]
 
 <wiki:comment>
 *Binary Search Tree prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/BST_prototype.h BST_prototype.h] 
