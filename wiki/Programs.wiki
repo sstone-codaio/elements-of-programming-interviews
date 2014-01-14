@@ -5,6 +5,9 @@
 #summary Index of Programs
 #labels Featured,Phase-Implementation
 
+We would like to thank Alexander Blazheev, Haris Osmanagic, and Ivan Sharov for their incredible efforts in developing Java 
+equivalents of the original C++ programs in our book.  
+
 = EPI problems to program mapping =
 
 Programs are presented in the order in which they appear in the book. Please use
@@ -34,6 +37,8 @@ Custom Java library code used in multiple places in solutions:
 [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/BinaryTreePrototypeTemplate.java BinaryTreePrototypeTemplate.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/BinaryTreeUtils.java BinaryTreeUtils.java],
 [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/BinaryTreeWithParentPrototype.java BinaryTreeWithParentPrototype.java]
+
+
 
 
 *Permute A to get B such that `B[0] <= B[1] >=  B[2] <= B[3] >= B[4] <=B[5] >= ...`*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Rearrange.cpp Rearrange.cpp] [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/Rearrange.java Rearrange.java]
