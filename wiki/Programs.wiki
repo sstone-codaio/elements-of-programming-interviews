@@ -171,7 +171,7 @@ Custom Java library code used in multiple places in solutions:
 
 <wiki:comment>
 *Linked list prototype*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Linked_list_prototype.h Linked_list_prototype.h] 
-<wiki:comment>
+</wiki:comment>
 
 *Merge two sorted lists*  [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Merge_sorted_lists.h Merge_sorted_lists.h] 
 [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/MergeSortedListsTemplate.java MergeSortedListsTemplate.java]
@@ -766,4 +766,3 @@ Custom Java library code used in multiple places in solutions:
 
 *Stable assignment* [https://code.google.com/p/elements-of-programming-interviews/source/browse/trunk/Stable_assignment.cpp Stable_assignment.cpp] 
 [https://github.com/adnanaziz/EpiCode/blob/master/Java/com/epi/StableAssignment.java StableAssignment.java]
-
